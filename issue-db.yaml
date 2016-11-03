@@ -984,6 +984,38 @@ Issue 028:
         - Nudity: 130.50 → 96.75 / -33.75 / -25.9%
         - Civil Rights: 65.60 → 48.00 / -17.6 / -26.8%
 
+Issue 032:
+  desc: >
+    A small, unidentified religious group wants polygyny legalized (at least for
+    them).
+  choice:
+    - Do it.
+    - Ban or continue banning marriages not of one man and one woman.
+    - Wholly deregulate marriage.
+  results:
+    - nation: AKA-1
+      time: 2016-11-02 23:49 -0700
+      choice: 3
+      effects:
+        - Secularism: 19.29 → 21.90 / +2.61 / +13.5%
+        - Inclusiveness: 114.64 → 122.99 / +8.35 / +7.3%
+        - Ideological Radicality: 12.25 → 12.91 / +0.66 / +5.4%
+        - Nudity: 123.75 → 128.25 / +4.5 / +3.6%
+        - Civil Rights: 63.27 → 64.97 / +1.7 / +2.7%
+        - Scientific Advancement: 66.81 → 68.10 / +1.29 / +1.9%
+        - Recreational Drug Use: 35.00 → 35.40 / +0.4 / +1.1%
+        - Intelligence: 35.17 → 35.50 / +0.33 / +0.94%
+        - Charmlessness: 1.20 → 1.21 / +0.01 / +0.83%
+        - Black Market: 22.29 → 22.38 / +0.09 / +0.40%
+        - Compliance: 67.81 → 67.77 / -0.04 / -0.06%
+        - Tourism: 1,096.44 → 1,094.72 / -1.72 / -0.16%
+        - Pacifism: 102.51 → 101.35 / -1.16 / -1.1%
+        - Averageness: 42.75 → 42.09 / -0.66 / -1.5%
+        - Ignorance: 2.27 → 2.23 / -0.04 / -1.8%
+        - Primitiveness: -70.00 → -71.24 / -1.24 / -1.8%
+        - Social Conservatism: 45.55 → 43.55 / -2 / -4.4%
+        - Religiousness: 11.74 → 10.12 / -1.62 / -13.8%
+
 Issue 039:
   desc: >
     A tabloid magazine has "revealed the sordid details of an affair" between one
