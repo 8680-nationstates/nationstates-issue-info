@@ -1612,6 +1612,60 @@ Issue 152:
         - Sector Agriculture: -1.41 → -3.16 / -1.75 / -124%
         - Freedom From Taxation: -10.30 → -30.16 / -19.86 / -193%
 
+Issue 153:
+  desc: >
+    An anti-government protest became a riot which resulted in the death of a
+    police officer.
+  choices:
+    - Ban public protests.
+    - Have the police avoid intervening in protests, even those that become
+      riots.
+    - Restrict protests to a designated area, and have the police continue
+      monitoring them, with the aim of protecting everyone, including violent
+      rioters, including at the cost of police officers' lives.
+  results:
+    - nation: AKA-2
+      time: 2016-11-04 15:19 -0700
+      choice: 3
+      effects:
+        - Pacifism: 62.52 → 100.85 / +38.33 / +61.3%
+        - Authoritarianism: 0.45 → 0.55 / +0.1 / +22.2%
+        - Law Enforcement: 303.87 → 341.39 / +37.52 / +12.3%
+        - Ignorance: 2.61 → 2.82 / +0.21 / +8.0%
+        - Corruption: 0.89 → 0.95 / +0.06 / +6.7%
+        - Averageness: 27.90 → 29.62 / +1.72 / +6.2%
+        - Compliance: 69.71 → 70.16 / +0.45 / +0.65%
+        - Government Size: 17.64 → 17.75 / +0.11 / +0.62%
+        - Tourism: 1,144.51 → 1,151.21 / +6.7 / +0.59%
+        - Average Income: 4,004.41 → 4,023.74 / +19.33 / +0.48%
+        - Average Income of Poor: 4,004.41 → 4,023.74 / +19.33 / +0.48%
+        - Average Income of Rich: 4,004.41 → 4,023.74 / +19.33 / +0.48%
+        - Economic Output: 16.94 → 17.02 / +0.08 / +0.47%
+        - Safety: 106.05 → 106.52 / +0.47 / +0.44%
+        - Taxation: 73.75 → 73.95 / +0.2 / +0.27%
+        - Integrity: 93.48 → 93.29 / -0.19 / -0.20%
+        - Public Transport: 235.25 → 234.10 / -1.15 / -0.49%
+        - Public Education: 284.26 → 282.87 / -1.39 / -0.49%
+        - Industry Arms Manufacturing: 148.99 → 148.26 / -0.73 / -0.49%
+        - Sector Manufacturing: 148.99 → 148.26 / -0.73 / -0.49%
+        - Industry Pizza Delivery: 40.78 → 40.58 / -0.2 / -0.49%
+        - Industry Information Technology: 258.78 → 257.51 / -1.27 / -0.49%
+        - Eco-Friendliness: 215.65 → 214.59 / -1.06 / -0.49%
+        - Defense Forces: 274.46 → 273.11 / -1.35 / -0.49%
+        - Business Subsidization: 166.64 → 165.82 / -0.82 / -0.49%
+        - Foreign Aid: 176.44 → 175.57 / -0.87 / -0.49%
+        - Welfare: 421.50 → 419.42 / -2.08 / -0.49%
+        - Industry Beverage Sales: 121.55 → 120.95 / -0.6 / -0.49%
+        - Public Healthcare: 245.06 → 243.85 / -1.21 / -0.49%
+        - Crime: 2.32 → 2.30 / -0.02 / -0.86%
+        - Charmlessness: 1.05 → 1.03 / -0.02 / -1.9%
+        - Intelligence: 33.15 → 32.27 / -0.88 / -2.7%
+        - Political Freedom: 69.83 → 66.40 / -3.43 / -4.9%
+        - Rudeness: 13.80 → 13.02 / -0.78 / -5.7%
+        - Ideological Radicality: 27.10 → 25.38 / -1.72 / -6.3%
+        - Black Market: 2.25 → 2.08 / -0.17 / -7.6%
+        - Freedom From Taxation: -15.46 → -16.79 / -1.33 / -8.6%
+
 Issue 157:
   desc: >
     Army recruits complain of their training being too harsh.
