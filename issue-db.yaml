@@ -246,10 +246,11 @@ Issue 001:
 Issue 009:
   desc: >
     The Beef-Based Agriculture Industry says that the population of our national
-    animal is excessive and suggests that they be marketed as delicacies.
+    animal is excessive and suggests that the animals be marketed as delicacies.
   choices:
     - Do it.
-    - No, shoot them and shovel their corpses into ditches.
+    - No, control the animals' population by shooting them and shoveling their
+      corpses into ditches.
     - Give the national animal protected status.
   results:
     - nation: Xateixika Tjalvarei
