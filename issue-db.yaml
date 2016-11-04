@@ -2539,6 +2539,31 @@ Issue 371:
         - Average Income of Rich: 13,434.46 → 11,509.59 / -1924.87 / -14.3%
         - Economy: 4.00 → 2.67 / -1.33 / -33.2%
 
+Issue 410:
+  desc: >
+    An eight-year jury-trial of a notorious embezzler yielded a verdict of "not
+    guilty", "despite most legal experts considering the evidence overwhelming".
+    Shall we end the use of jury trials for "certain complex financial crimes"?
+  choices:
+    - Yes.
+    - Abolish jury trial altogether.
+    - Keep jury trials for the sake of jurors who participate in them
+      recreationally.
+  results:
+    - nation: AKA-3
+      time: 2016-11-04 16:32 -0700
+      choice: 1
+      effects:
+        - Social Conservatism: 58.17 → 59.33 / +1.16 / +2.0%
+        - Ignorance: 2.68 → 2.73 / +0.05 / +1.9%
+        - Ideological Radicality: 23.90 → 24.29 / +0.39 / +1.6%
+        - Pacifism: 113.71 → 113.96 / +0.25 / +0.22%
+        - Recreational Drug Use: 36.40 → 36.20 / -0.2 / -0.55%
+        - Intelligence: 32.83 → 32.63 / -0.2 / -0.61%
+        - Averageness: 31.10 → 30.71 / -0.39 / -1.3%
+        - Nudity: 94.50 → 92.25 / -2.25 / -2.4%
+        - Civil Rights: 46.44 → 44.89 / -1.55 / -3.3%
+
 Issue 453:
   desc: >
     Behavior in Parliament, including jeering, mooning, and brawling, has become
