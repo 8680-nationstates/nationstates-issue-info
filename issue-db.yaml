@@ -470,7 +470,49 @@ Issue 024:
       of our society".
     - Cut taxes.
   results:
-    - nation: null
+    - nation: AKA-0
+      time: 2016-11-05 23:53 -0700
+      choice: 1
+      effects:
+        - Public Education: 1,062.06 → 1,159.02 / +96.96 / +9.1%
+        - Freedom From Taxation: -31.71 → -29.38 / +2.33 / +7.3%
+        - Scientific Advancement: 44.72 → 46.90 / +2.18 / +4.9%
+        - Intelligence: 34.62 → 35.29 / +0.67 / +1.9%
+        - Industry Basket Weaving: 778.84 → 784.57 / +5.73 / +0.74%
+        - Sector Manufacturing: 1,097.46 → 1,105.53 / +8.07 / +0.74%
+        - Industry Book Publishing: 653.17 → 657.97 / +4.8 / +0.73%
+        - Industry Timber Woodchipping: 495.63 → 499.27 / +3.64 / +0.73%
+        - Industry Automobile Manufacturing: 318.62 → 320.96 / +2.34 / +0.73%
+        - Industry Insurance: 99.13 → 99.85 / +0.72 / +0.73%
+        - Death Rate: 41.46 → 41.68 / +0.22 / +0.53%
+        - Secularism: 30.42 → 30.52 / +0.1 / +0.33%
+        - Human Development Index: 43.73 → 43.85 / +0.12 / +0.27%
+        - Compliance: 73.13 → 73.27 / +0.14 / +0.19%
+        - Pacifism: 118.83 → 118.98 / +0.15 / +0.13%
+        - Employment: 74.61 → 74.65 / +0.04 / +0.05%
+        - Religiousness: 8.28 → 8.27 / -0.01 / -0.12%
+        - Lifespan: 63.99 → 63.91 / -0.08 / -0.13%
+        - Inclusiveness: 113.24 → 112.95 / -0.29 / -0.26%
+        - Safety: 104.57 → 104.21 / -0.36 / -0.34%
+        - Environmental Beauty: 811.26 → 808.17 / -3.09 / -0.38%
+        - Taxation: 75.96 → 75.63 / -0.33 / -0.43%
+        - Average Income: 10,642.71 → 10,564.92 / -77.79 / -0.73%
+        - Average Income of Rich: 10,893.05 → 10,813.43 / -79.62 / -0.73%
+        - Average Income of Poor: 10,371.35 → 10,295.54 / -75.81 / -0.73%
+        - Economic Output: 54.28 → 53.88 / -0.4 / -0.74%
+        - Government Size: 19.36 → 19.18 / -0.18 / -0.93%
+        - Welfare: 1,062.06 → 1,047.58 / -14.48 / -1.4%
+        - Black Market: 6.53 → 6.41 / -0.12 / -1.8%
+        - Public Healthcare: 818.67 → 802.40 / -16.27 / -2.0%
+        - Defense Forces: 818.67 → 802.40 / -16.27 / -2.0%
+        - Law Enforcement: 796.54 → 780.11 / -16.43 / -2.1%
+        - Eco-Friendliness: 663.79 → 646.38 / -17.41 / -2.6%
+        - Industry Pizza Delivery: -5.74 → -5.92 / -0.18 / -3.1%
+        - Primitiveness: 54.77 → 52.92 / -1.85 / -3.4%
+        - Public Transport: 531.03 → 512.64 / -18.39 / -3.5%
+        - Foreign Aid: 464.65 → 445.78 / -18.87 / -4.1%
+        - Ignorance: 2.35 → 2.25 / -0.1 / -4.3%
+        - Business Subsidization: 420.40 → 401.20 / -19.2 / -4.6%
 
 Issue 025:
   desc: >
