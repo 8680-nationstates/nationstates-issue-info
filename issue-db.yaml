@@ -3074,6 +3074,67 @@ Issue 538:
         - Industry Retail: 788.47 → 689.85 / -98.62 / -12.5%
         - Industry Pizza Delivery: 19.23 → 11.50 / -7.73 / -40.2%
 
+Issue 541:
+  desc: >
+    The legislature has voted down a flagship bill that I wanted passed, severely
+    hampering my legislative agenda, despite my party having “a comfortable
+    majority”.
+  choices:
+    - Maintain party discipline by having heavily-equipped security officers
+      march around and personally intimidate legislators.
+    - Appoint one Francis Woodheart as party whip, charged with prevailing upon
+      legislators to vote per our wishes in return for favors such as political
+      appointments.
+    - Allow legislators to keep their votes secret, and devolve some unspecified
+      authority to local governments.
+    - Make legislators' voting more transparent to empower the electorate to
+      recall legislators whose records they dislike.
+    - Personally, publicly, and literally whip disobedient legislators.
+  results:
+    - nation: AKA-1
+      time: 2016-11-06 15:27 -0800
+      choice: 4
+      effects:
+        - Industry Book Publishing: -6.26 → -5.67 / +0.59 / +9.4%
+        - Safety: 101.27 → 102.86 / +1.59 / +1.6%
+        - Government Size: 16.85 → 16.94 / +0.09 / +0.53%
+        - Ideological Radicality: 12.91 → 12.96 / +0.05 / +0.39%
+        - Taxation: 72.16 → 72.43 / +0.27 / +0.37%
+        - Employment: 76.94 → 77.20 / +0.26 / +0.34%
+        - Lifespan: 63.52 → 63.63 / +0.11 / +0.17%
+        - Political Freedom: 64.10 → 64.19 / +0.09 / +0.14%
+        - Rudeness: 38.66 → 38.71 / +0.05 / +0.13%
+        - Integrity: 93.35 → 93.46 / +0.11 / +0.12%
+        - Intelligence: 35.50 → 35.54 / +0.04 / +0.11%
+        - Economic Output: 142.70 → 142.81 / +0.11 / +0.08%
+        - Average Income of Poor: 20,445.03 → 20,460.55 / +15.52 / +0.08%
+        - Average Income of Rich: 34,384.02 → 34,410.12 / +26.1 / +0.08%
+        - Average Income: 26,925.16 → 26,945.59 / +20.43 / +0.08%
+        - Human Development Index: 48.31 → 48.34 / +0.03 / +0.06%
+        - Industry Trout Fishing: 209.99 → 209.81 / -0.18 / -0.09%
+        - Industry Information Technology: 571.63 → 571.14 / -0.49 / -0.09%
+        - Public Transport: 1,749.90 → 1,748.39 / -1.51 / -0.09%
+        - Public Education: 3,499.80 → 3,496.78 / -3.02 / -0.09%
+        - Defense Forces: 1,239.51 → 1,238.44 / -1.07 / -0.09%
+        - Public Healthcare: 1,968.64 → 1,966.94 / -1.7 / -0.09%
+        - Eco-Friendliness: 1,458.25 → 1,456.99 / -1.26 / -0.09%
+        - Law Enforcement: 1,458.25 → 1,456.99 / -1.26 / -0.09%
+        - Industry Arms Manufacturing: 1,283.26 → 1,282.15 / -1.11 / -0.09%
+        - Industry Furniture Restoration: 1,283.26 → 1,282.15 / -1.11 / -0.09%
+        - Sector Manufacturing: 1,283.26 → 1,282.15 / -1.11 / -0.09%
+        - Sector Agriculture: 612.47 → 611.94 / -0.53 / -0.09%
+        - Industry Retail: 1,662.41 → 1,660.97 / -1.44 / -0.09%
+        - Welfare: 2,989.42 → 2,986.83 / -2.59 / -0.09%
+        - Foreign Aid: 1,093.69 → 1,092.74 / -0.95 / -0.09%
+        - Business Subsidization: 874.95 → 874.19 / -0.76 / -0.09%
+        - Averageness: 42.09 → 42.04 / -0.05 / -0.12%
+        - Ignorance: 2.23 → 2.22 / -0.01 / -0.45%
+        - Death Rate: 42.90 → 42.53 / -0.37 / -0.86%
+        - Corruption: 0.93 → 0.89 / -0.04 / -4.3%
+        - Black Market: 23.17 → 21.67 / -1.5 / -6.5%
+        - Industry Gambling: 594.97 → 419.61 / -175.36 / -29.5%
+        - Freedom From Taxation: 0.39 → -0.73 / -1.12 / -287%
+
 Issue 543:
   desc: >
     A flash mob of thousands of people dumped lice on their heads in a mall.
