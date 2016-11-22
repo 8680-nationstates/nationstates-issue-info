@@ -630,6 +630,32 @@ Issue 022:
         - Recreational Drug Use: 108.00 → 96.00 / -12 / -11.1%
         - Political Freedom: 50.67 → 44.89 / -5.78 / -11.4%
         - Weaponization: 16.30 → 13.78 / -2.52 / -15.5%
+    - nation: TSA-6
+      time: 2016-11-21 20:51 -0800
+      choice: 2
+      effects:
+        - Political Freedom: 54.67 → 67.11 / +12.44 / +22.8%
+        - Rudeness: 65.15 → 75.78 / +10.63 / +16.3%
+        - Ideological Radicality: 20.68 → 23.93 / +3.25 / +15.7%
+        - Intelligence: 30.41 → 32.81 / +2.4 / +7.9%
+        - Safety: 7.73 → 7.95 / +0.22 / +2.8%
+        - Compliance: 11.56 → 11.88 / +0.32 / +2.8%
+        - Nudity: 177.75 → 182.25 / +4.5 / +2.5%
+        - Charmlessness: 177.76 → 181.66 / +3.9 / +2.2%
+        - Civil Rights: 79.67 → 81.05 / +1.38 / +1.7%
+        - Integrity: 93.08 → 93.51 / +0.43 / +0.46%
+        - Pacifism: 9.03 → 9.07 / +0.04 / +0.44%
+        - Recreational Drug Use: 98.80 → 99.20 / +0.4 / +0.40%
+        - Tourism: 21.97 → 21.73 / -0.24 / -1.1%
+        - Crime: 21.71 → 21.41 / -0.3 / -1.4%
+        - Weaponization: 13.92 → 13.68 / -0.24 / -1.7%
+        - Black Market: 118,940,000,000 → 114,840,000,000 / NaN / -3.4%
+        - Averageness: 34.32 → 31.07 / -3.25 / -9.5%
+        - Social Conservatism: 21.50 → 19.43 / -2.07 / -9.6%
+        - Corruption: 1.04 → 0.88 / -0.16 / -15.4%
+        - Ignorance: 3.58 → 2.69 / -0.89 / -24.9%
+        - Inclusiveness: 54.56 → 35.16 / -19.4 / -35.6%
+        - Authoritarianism: 0.01 → 0.00 / -0.01 / -100%
 
 Issue 023:
   desc: >
