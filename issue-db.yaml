@@ -2764,6 +2764,19 @@ Issue 410:
         - Nudity: 94.50 → 92.25 / -2.25 / -2.4%
         - Civil Rights: 46.44 → 44.89 / -1.55 / -3.3%
 
+Issue 427:
+  desc: >
+    Shall we ban immigrants from holding political office?
+  choices:
+    - Yes.
+    - Yes, and also from legal and law enforcement professions.
+    - No.
+  results:
+    - nation: AKA-5
+      time: 2016-11-21 20:01 -0800
+      choice: 1
+      effects: [] # Yes, really, nothing.
+
 Issue 449:
   desc: >
     Shall we permit extraction of shale gas via hydraulic fracturing (a.k.a.
