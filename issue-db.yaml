@@ -2703,6 +2703,64 @@ Issue 410:
         - Nudity: 94.50 → 92.25 / -2.25 / -2.4%
         - Civil Rights: 46.44 → 44.89 / -1.55 / -3.3%
 
+Issue 449:
+  desc: >
+    Shall we permit extraction of shale gas via hydraulic fracturing (a.k.a.
+    “fracking”)?
+  choices:
+    - Yes, and crack down on opposition to it.
+    - No, and invest in clean energy technologies.
+    - Yes, but only in out-of-the-way places, like by remote wildlife preserves.
+  results:
+    - nation: AKA-2
+      time: 2016-11-21 19:39 -0800
+      choice: 1
+      effects:
+        - Industry Beverage Sales: 120.95 → 440.07 / +319.12 / +264%
+        - Average Income of Rich: 4,023.74 → 11,841.18 / +7817.44 / +194%
+        - Black Market: 2,580,000,000 → 7,590,000,000 / NaN / +194%
+        - Economic Output: 2,111,999,999,999 → 5,994,000,000,000 / NaN / +184%
+        - Average Income: 4,023.74 → 11,416.39 / +7392.65 / +184%
+        - Foreign Aid: 175.57 → 495.07 / +319.5 / +182%
+        - Defense Forces: 273.11 → 770.11 / +497 / +182%
+        - Industry Arms Manufacturing: 148.26 → 418.06 / +269.8 / +182%
+        - Sector Manufacturing: 148.26 → 418.06 / +269.8 / +182%
+        - Welfare: 419.42 → 1,182.67 / +763.25 / +182%
+        - Law Enforcement: 341.39 → 962.64 / +621.25 / +182%
+        - Public Healthcare: 243.85 → 687.60 / +443.75 / +182%
+        - Eco-Friendliness: 214.59 → 605.09 / +390.5 / +182%
+        - Business Subsidization: 165.82 → 467.57 / +301.75 / +182%
+        - Public Education: 282.87 → 797.62 / +514.75 / +182%
+        - Industry Information Technology: 257.51 → 726.11 / +468.6 / +182%
+        - Public Transport: 234.10 → 660.10 / +426 / +182%
+        - Average Income of Poor: 4,023.74 → 10,962.00 / +6938.26 / +172%
+        - Industry Pizza Delivery: 40.58 → 85.81 / +45.23 / +111%
+        - Economy: 0.00 → 4.00 / +4 / +100%
+        - Death Rate: 58.21 → 107.80 / +49.59 / +85.2%
+        - Rudeness: 13.02 → 21.46 / +8.44 / +64.8%
+        - Industry Mining: -11.05 → -9.59 / +1.46 / +13.2%
+        - Wealth Gaps: 1.00 → 1.08 / +0.08 / +8.0%
+        - Charmlessness: 1.03 → 1.11 / +0.08 / +7.8%
+        - Freedom From Taxation: -16.79 → -15.60 / +1.19 / +7.1%
+        - Averageness: 29.62 → 30.95 / +1.33 / +4.5%
+        - Economic Freedom: -100.00 → -96.00 / +4 / +4.0%
+        - Obesity: 9.67 → 9.83 / +0.16 / +1.7%
+        - Human Development Index: 40.70 → 41.07 / +0.37 / +0.91%
+        - Employment: 73.91 → 74.26 / +0.35 / +0.47%
+        - Crime: 2.30 → 2.31 / +0.01 / +0.43%
+        - Safety: 106.52 → 106.38 / -0.14 / -0.13%
+        - Taxation: 73.95 → 73.71 / -0.24 / -0.32%
+        - Compliance: 70.16 → 69.85 / -0.31 / -0.44%
+        - Tourism: 1,151.21 → 1,122.52 / -28.69 / -2.5%
+        - Lifespan: 61.36 → 59.81 / -1.55 / -2.5%
+        - Ideological Radicality: 25.38 → 24.05 / -1.33 / -5.2%
+        - Environmental Beauty: 748.47 → 694.03 / -54.44 / -7.3%
+        - Income Equality: 100.00 → 92.58 / -7.42 / -7.4%
+        - Authoritarianism: 0.55 → 0.50 / -0.05 / -9.1%
+        - Weather: 118.00 → 107.00 / -11 / -9.3%
+        - Health: 0.87 → 0.72 / -0.15 / -17.2%
+        - Pacifism: 100.85 → 74.50 / -26.35 / -26.1%
+
 Issue 453:
   desc: >
     Behavior in Parliament, including jeering, mooning, and brawling, has become
