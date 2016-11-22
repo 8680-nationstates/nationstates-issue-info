@@ -2985,6 +2985,31 @@ Issue 492:
         - Compassion: 24.97 → 24.25 / -0.72 / -2.9%
         - Niceness: 3.89 → 3.42 / -0.47 / -12.1%
 
+Issue 494:
+  desc: >
+    Persistently low human-rights rankings are embarrassing us. Shall we stop
+    flogging criminals?
+  choices:
+    - Yes.
+    - No.
+  results:
+    - nation: AKA-4
+      time: 2016-11-21 19:55 -0800
+      choice: 1
+      effects:
+        - Niceness: 14.64 → 15.51 / +0.87 / +5.9%
+        - Compassion: 44.83 → 45.83 / +1 / +2.2%
+        - Pacifism: 109.01 → 109.68 / +0.67 / +0.61%
+        - Tourism: 1,101.94 → 1,104.82 / +2.88 / +0.26%
+        - Lifespan: 60.88 → 60.97 / +0.09 / +0.15%
+        - Compliance: 69.36 → 69.46 / +0.1 / +0.14%
+        - Human Development Index: 41.94 → 41.97 / +0.03 / +0.07%
+        - Crime: 2.34 → 2.33 / -0.01 / -0.43%
+        - Charmlessness: 1.18 → 1.17 / -0.01 / -0.85%
+        - Black Market: 10,110,000,000 → 10,000,000,000 / NaN / -1.1%
+        - Rudeness: 25.40 → 25.09 / -0.31 / -1.2%
+        - Death Rate: 74.48 → 69.07 / -5.41 / -7.3%
+
 Issue 505:
   desc: >
     The countryside is being infested with what appears to be hallucinogenic
