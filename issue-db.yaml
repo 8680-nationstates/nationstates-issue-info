@@ -412,6 +412,32 @@ Issue 022:
         - Rudeness: 25.09 → 22.07 / -3.02 / -12.0%
         - Ideological Radicality: 27.09 → 22.36 / -4.73 / -17.5%
         - Black Market: 0.48 → 0.39 / -0.09 / -18.7%
+    - nation: TSA-0
+      time: 2016-11-21 20:05 -0800
+      choice: 2
+      effects:
+        - Political Freedom: 48.00 → 64.44 / +16.44 / +34.2%
+        - Rudeness: 62.96 → 74.60 / +11.64 / +18.5%
+        - Intelligence: 29.35 → 32.22 / +2.87 / +9.8%
+        - Weaponization: 10.71 → 11.26 / +0.55 / +5.1%
+        - Nudity: 166.50 → 173.25 / +6.75 / +4.1%
+        - Ideological Radicality: 20.61 → 21.35 / +0.74 / +3.6%
+        - Civil Rights: 76.17 → 78.53 / +2.36 / +3.1%
+        - Compliance: 11.64 → 11.97 / +0.33 / +2.8%
+        - Safety: 7.54 → 7.75 / +0.21 / +2.8%
+        - Recreational Drug Use: 97.80 → 98.40 / +0.6 / +0.61%
+        - Integrity: 92.89 → 93.37 / +0.48 / +0.52%
+        - Tourism: 22.64 → 22.67 / +0.03 / +0.13%
+        - Charmlessness: 166.93 → 166.45 / -0.48 / -0.29%
+        - Pacifism: 9.81 → 9.72 / -0.09 / -0.92%
+        - Crime: 21.63 → 21.33 / -0.3 / -1.4%
+        - Averageness: 34.39 → 33.65 / -0.74 / -2.2%
+        - Black Market: 144,750,000,000 → 138,850,000,000 / NaN / -4.1%
+        - Social Conservatism: 26.75 → 23.20 / -3.55 / -13.3%
+        - Corruption: 1.12 → 0.93 / -0.19 / -17.0%
+        - Ignorance: 4.56 → 2.84 / -1.72 / -37.7%
+        - Inclusiveness: 61.22 → 36.41 / -24.81 / -40.5%
+        - Authoritarianism: 0.02 → 0.01 / -0.01 / -50.0%
 
 Issue 023:
   desc: >
