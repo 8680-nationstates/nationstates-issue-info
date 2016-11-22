@@ -391,6 +391,71 @@ Issue 009:
         - Sector Agriculture: -7.35 → -8.60 / -1.25 / -17.0%
         - Economy: 1.00 → 0.67 / -0.33 / -33.0%
 
+Issue 016:
+  desc: >
+    <Major industry> workers nationwide are striking for higher pay.
+  choices:
+    - Condone the strikes, and possibly mandate that the workers' pay be raised
+      20% over two years.
+    - Condemn the strikes, and allow <major industry> to dismiss the striking
+      workers from their employment.
+  results:
+    - nation: TSA-4
+      time: 2016-11-21 20:37 -0800
+      choice: 1
+      effects:
+        - Income Equality: 5.76 → 24.48 / +18.72 / +325%
+        - Average Income of Poor: 13,034.93 → 27,235.15 / +14200.22 / +109%
+        - Authoritarianism: 0.02 → 0.04 / +0.02 / +100%
+        - Death Rate: 53.73 → 102.56 / +48.83 / +90.9%
+        - Compliance: 11.64 → 17.93 / +6.29 / +54.0%
+        - Black Market: 140,070,000,000 → 161,050,000,000 / NaN / +15.0%
+        - Averageness: 32.72 → 37.19 / +4.47 / +13.7%
+        - Safety: 7.54 → 8.38 / +0.84 / +11.1%
+        - Tourism: 22.01 → 23.87 / +1.86 / +8.5%
+        - Taxation: 4.58 → 4.93 / +0.35 / +7.6%
+        - Pacifism: 9.33 → 9.80 / +0.47 / +5.0%
+        - Ignorance: 13.82 → 14.34 / +0.52 / +3.8%
+        - Environmental Beauty: 37.79 → 39.21 / +1.42 / +3.8%
+        - Public Transport: 194.79 → 193.03 / -1.76 / -0.90%
+        - Public Education: 194.79 → 193.03 / -1.76 / -0.90%
+        - Defense Forces: 779.16 → 772.11 / -7.05 / -0.90%
+        - Public Healthcare: 292.19 → 289.54 / -2.65 / -0.91%
+        - Intelligence: 26.96 → 26.70 / -0.26 / -0.96%
+        - Lifespan: 61.68 → 60.54 / -1.14 / -1.8%
+        - Employment: 74.70 → 72.89 / -1.81 / -2.4%
+        - Industry Pizza Delivery: 4,441.22 → 4,246.61 / -194.61 / -4.4%
+        - Industry Basket Weaving: 7,012.45 → 6,640.15 / -372.3 / -5.3%
+        - Industry Beverage Sales: 7,012.45 → 6,640.15 / -372.3 / -5.3%
+        - Human Development Index: 55.81 → 52.54 / -3.27 / -5.9%
+        - Industry Arms Manufacturing: 5,999.54 → 5,636.41 / -363.13 / -6.1%
+        - Sector Manufacturing: 17,297.38 → 16,214.33 / -1083.05 / -6.3%
+        - Industry Retail: 5,687.88 → 5,327.57 / -360.31 / -6.3%
+        - Freedom From Taxation: 132.19 → 123.22 / -8.97 / -6.8%
+        - Sector Agriculture: 3,358.19 → 3,120.87 / -237.32 / -7.1%
+        - Obesity: 15.92 → 14.73 / -1.19 / -7.5%
+        - Industry Timber Woodchipping: 4,674.97 → 4,323.82 / -351.15 / -7.5%
+        - Industry Automobile Manufacturing: 4,285.39 → 3,937.77 / -347.62 / -8.1%
+        - Industry Furniture Restoration: 4,285.39 → 3,937.77 / -347.62 / -8.1%
+        - Industry Trout Fishing: 1,831.03 → 1,675.48 / -155.55 / -8.5%
+        - Economic Output: 28,692,000,000,000 → 26,056,000,000,000 / NaN / -9.2%
+        - Average Income: 63,902.93 → 58,031.09 / -5871.84 / -9.2%
+        - Rudeness: 62.21 → 56.17 / -6.04 / -9.7%
+        - Economy: 79.33 → 70.44 / -8.89 / -11.2%
+        - Industry Cheese Exports: 1,979.07 → 1,720.26 / -258.81 / -13.1%
+        - Crime: 21.63 → 18.38 / -3.25 / -15.0%
+        - Charmlessness: 177.09 → 148.47 / -28.62 / -16.2%
+        - Industry Insurance: 1,986.86 → 1,660.04 / -326.82 / -16.4%
+        - Economic Freedom: 80.00 → 66.67 / -13.33 / -16.7%
+        - Industry Book Publishing: 1,675.20 → 1,351.19 / -324.01 / -19.3%
+        - Ideological Radicality: 22.28 → 17.81 / -4.47 / -20.1%
+        - Weaponization: 12.71 → 9.75 / -2.96 / -23.3%
+        - Industry Information Technology: 1,324.57 → 1,003.74 / -320.83 / -24.2%
+        - Average Income of Rich: 226,196.07 → 111,240.11 / -114955.96 / -50.8%
+        - Wealth Gaps: 17.35 → 4.08 / -13.27 / -76.5%
+        - Industry Mining: 389.58 → 77.21 / -312.37 / -80.2%
+        - Industry Gambling: 0.00 → -1.77 / -1.77 / -100%
+
 Issue 022:
   desc: >
     Shall we permit a Nazi rally?
