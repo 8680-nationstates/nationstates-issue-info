@@ -1582,6 +1582,67 @@ Issue 131:
         - Authoritarianism: 0.03 → 0.01 / -0.02 / -66.7%
         - Law Enforcement: 747.35 → 215.49 / -531.86 / -71.2%
 
+Issue 138:
+  desc: >
+    Shall we expand real-estate development into the greenbelts reserved between
+    developed areas?
+  choices:
+    - Yes.
+    - Yes, and crack down on opposition to the plan.
+    - No.
+  results:
+    - nation: AKA-3
+      time: 2016-11-21 19:50 -0800
+      choice: 1
+      effects:
+        - Industry Timber Woodchipping: 268.69 → 614.05 / +345.36 / +129%
+        - Economy: 2.67 → 5.25 / +2.58 / +96.6%
+        - Black Market: 6,590,000,000 → 9,630,000,000 / NaN / +46.1%
+        - Average Income of Rich: 11,509.48 → 16,799.82 / +5290.34 / +46.0%
+        - Average Income: 11,217.01 → 15,952.30 / +4735.29 / +42.2%
+        - Economic Output: 5,923,000,000,000 → 8,423,000,000,000 / NaN / +42.2%
+        - Industry Cheese Exports: 141.06 → 198.39 / +57.33 / +40.6%
+        - Industry Pizza Delivery: 335.86 → 472.35 / +136.49 / +40.6%
+        - Public Healthcare: 629.74 → 885.65 / +255.91 / +40.6%
+        - Law Enforcement: 734.70 → 1,033.26 / +298.56 / +40.6%
+        - Industry Book Publishing: 319.07 → 448.73 / +129.66 / +40.6%
+        - Industry Trout Fishing: 1,088.20 → 1,530.40 / +442.2 / +40.6%
+        - Defense Forces: 713.71 → 1,003.73 / +290.02 / +40.6%
+        - Business Subsidization: 419.83 → 590.43 / +170.6 / +40.6%
+        - Industry Information Technology: 1,343.46 → 1,889.38 / +545.92 / +40.6%
+        - Foreign Aid: 398.84 → 560.91 / +162.07 / +40.6%
+        - Welfare: 923.63 → 1,298.95 / +375.32 / +40.6%
+        - Public Transport: 524.79 → 738.04 / +213.25 / +40.6%
+        - Public Education: 650.74 → 915.17 / +264.43 / +40.6%
+        - Industry Automobile Manufacturing: 352.66 → 495.96 / +143.3 / +40.6%
+        - Sector Manufacturing: 352.66 → 495.96 / +143.3 / +40.6%
+        - Industry Beverage Sales: 4.20 → 5.90 / +1.7 / +40.5%
+        - Average Income of Poor: 10,900.78 → 15,059.45 / +4158.67 / +38.2%
+        - Eco-Friendliness: 419.83 → 531.39 / +111.56 / +26.6%
+        - Rudeness: 21.13 → 23.90 / +2.77 / +13.1%
+        - Charmlessness: 1.18 → 1.32 / +0.14 / +11.9%
+        - Freedom From Taxation: -18.24 → -16.44 / +1.8 / +9.9%
+        - Death Rate: 104.22 → 112.35 / +8.13 / +7.8%
+        - Wealth Gaps: 1.06 → 1.12 / +0.06 / +5.7%
+        - Averageness: 30.71 → 31.57 / +0.86 / +2.8%
+        - Economic Freedom: -97.33 → -94.75 / +2.58 / +2.7%
+        - Crime: 2.25 → 2.26 / +0.01 / +0.44%
+        - Human Development Index: 41.14 → 41.31 / +0.17 / +0.41%
+        - Employment: 74.97 → 75.27 / +0.3 / +0.40%
+        - Obesity: 9.46 → 9.48 / +0.02 / +0.21%
+        - Safety: 109.05 → 108.96 / -0.09 / -0.08%
+        - Pacifism: 113.96 → 113.71 / -0.25 / -0.22%
+        - Compliance: 71.16 → 70.95 / -0.21 / -0.30%
+        - Government Size: 18.28 → 18.22 / -0.06 / -0.33%
+        - Taxation: 71.03 → 70.59 / -0.44 / -0.62%
+        - Lifespan: 60.35 → 58.87 / -1.48 / -2.5%
+        - Tourism: 1,103.01 → 1,064.15 / -38.86 / -3.5%
+        - Ideological Radicality: 24.29 → 23.43 / -0.86 / -3.5%
+        - Income Equality: 94.71 → 89.64 / -5.07 / -5.4%
+        - Weather: 110.00 → 102.00 / -8 / -7.3%
+        - Authoritarianism: 0.91 → 0.83 / -0.08 / -8.8%
+        - Environmental Beauty: 652.19 → 584.31 / -67.88 / -10.4%
+
 Issue 147:
   desc: >
     The branches of our military are vying for increased funding.
