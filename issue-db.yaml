@@ -391,6 +391,62 @@ Issue 009:
         - Sector Agriculture: -7.35 → -8.60 / -1.25 / -17.0%
         - Economy: 1.00 → 0.67 / -0.33 / -33.0%
 
+Issue 014:
+  desc: >
+    Shall we increase funding to the military?
+  choices:
+    - Yes.
+    - No.
+  results:
+    - nation: TSA-5
+      time: 2016-11-21 20:41 -0800
+      choice: 1
+      effects:
+        - Defense Forces: 1,076.32 → 1,925.63 / +849.31 / +78.9%
+        - Authoritarianism: 0.11 → 0.18 / +0.07 / +63.6%
+        - Black Market: 193,959,999,999 → 291,000,000,000 / NaN / +50.0%
+        - Ideological Radicality: 12.53 → 15.86 / +3.33 / +26.6%
+        - Corruption: 1.18 → 1.45 / +0.27 / +22.9%
+        - Ignorance: 19.81 → 22.31 / +2.5 / +12.6%
+        - Taxation: 9.03 → 9.63 / +0.6 / +6.6%
+        - Government Size: 7.87 → 8.37 / +0.5 / +6.4%
+        - Weaponization: 0.57 → 0.59 / +0.02 / +3.5%
+        - Charmlessness: 209.35 → 216.19 / +6.84 / +3.3%
+        - Crime: 16.76 → 17.09 / +0.33 / +2.0%
+        - Average Income of Poor: 17,627.22 → 17,805.68 / +178.46 / +1.0%
+        - Average Income of Rich: 132,501.24 → 133,842.68 / +1341.44 / +1.0%
+        - Average Income: 52,881.66 → 53,417.03 / +535.37 / +1.0%
+        - Economic Output: 23,320,999,999,999 → 23,557,000,000,000 / NaN / +1.0%
+        - Integrity: 92.77 → 92.36 / -0.41 / -0.44%
+        - Public Transport: 861.05 → 855.84 / -5.21 / -0.61%
+        - Public Education: 861.05 → 855.84 / -5.21 / -0.61%
+        - Industry Basket Weaving: 688.84 → 684.67 / -4.17 / -0.61%
+        - Industry Furniture Restoration: 688.84 → 684.67 / -4.17 / -0.61%
+        - Sector Agriculture: 1,576.59 → 1,567.04 / -9.55 / -0.61%
+        - Law Enforcement: 538.16 → 534.90 / -3.26 / -0.61%
+        - Industry Automobile Manufacturing: 3,702.53 → 3,680.10 / -22.43 / -0.61%
+        - Industry Beverage Sales: 3,702.53 → 3,680.10 / -22.43 / -0.61%
+        - Industry Mining: 1,549.90 → 1,540.51 / -9.39 / -0.61%
+        - Industry Information Technology: 5,596.85 → 5,562.94 / -33.91 / -0.61%
+        - Industry Cheese Exports: 4,437.87 → 4,410.98 / -26.89 / -0.61%
+        - Industry Retail: 3,960.85 → 3,936.85 / -24 / -0.61%
+        - Sector Manufacturing: 4,391.38 → 4,364.77 / -26.61 / -0.61%
+        - Industry Gambling: 5,734.62 → 5,699.87 / -34.75 / -0.61%
+        - Public Healthcare: 968.69 → 962.82 / -5.87 / -0.61%
+        - Industry Trout Fishing: 6,186.68 → 6,149.19 / -37.49 / -0.61%
+        - Industry Book Publishing: 818.00 → 813.04 / -4.96 / -0.61%
+        - Eco-Friendliness: 322.90 → 320.94 / -1.96 / -0.61%
+        - Business Subsidization: 322.90 → 320.94 / -1.96 / -0.61%
+        - Tourism: 20.20 → 19.85 / -0.35 / -1.7%
+        - Freedom From Taxation: 104.00 → 101.33 / -2.67 / -2.6%
+        - Safety: 9.17 → 8.88 / -0.29 / -3.2%
+        - Pacifism: 12.06 → 11.34 / -0.72 / -6.0%
+        - Averageness: 42.47 → 39.14 / -3.33 / -7.8%
+        - Intelligence: 23.13 → 21.00 / -2.13 / -9.2%
+        - Rudeness: 53.66 → 46.76 / -6.9 / -12.9%
+        - Compliance: 30.19 → 25.85 / -4.34 / -14.4%
+        - Political Freedom: 44.00 → 30.67 / -13.33 / -30.3%
+
 Issue 016:
   desc: >
     <Major industry> workers nationwide are striking for higher pay.
