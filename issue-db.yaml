@@ -2051,6 +2051,68 @@ Issue 131:
         - Authoritarianism: 0.03 → 0.01 / -0.02 / -66.7%
         - Law Enforcement: 747.35 → 215.49 / -531.86 / -71.2%
 
+Issue 135:
+  desc: >
+    Citizens are protesting our high tax rates. Shall we cut taxes?
+  choices:
+    - Yes.
+    - No.
+  results:
+    - nation: AKA-2
+      time: 2016-11-26 00:25 -0800
+      choice: 1
+      effects:
+        - Ignorance: 2.82 → 14.03 / +11.21 / +398%
+        - Freedom From Taxation: -15.60 → 19.96 / +35.56 / +228%
+        - Industry Retail: -4.69 → -1.41 / +3.28 / +69.9%
+        - Charmlessness: 1.11 → 1.71 / +0.6 / +54.1%
+        - Black Market: 8,010,000,000 → 11,470,000,000 / NaN / +43.2%
+        - Industry Gambling: -9.17 → -6.75 / +2.42 / +26.4%
+        - Industry Beverage Sales: 440.07 → 545.32 / +105.25 / +23.9%
+        - Death Rate: 107.80 → 127.33 / +19.53 / +18.1%
+        - Industry Arms Manufacturing: 418.06 → 493.38 / +75.32 / +18.0%
+        - Sector Manufacturing: 418.06 → 493.38 / +75.32 / +18.0%
+        - Industry Pizza Delivery: 85.81 → 101.27 / +15.46 / +18.0%
+        - Weaponization: 0.23 → 0.27 / +0.04 / +17.4%
+        - Crime: 2.31 → 2.60 / +0.29 / +12.6%
+        - Obesity: 9.83 → 10.66 / +0.83 / +8.4%
+        - Primitiveness: -91.92 → -85.73 / +6.19 / +6.7%
+        - Secularism: 30.83 → 31.86 / +1.03 / +3.3%
+        - Averageness: 30.95 → 30.98 / +0.03 / +0.1%
+        - Ideological Radicality: 24.05 → 24.02 / -0.03 / -0.12%
+        - Religiousness: 8.21 → 8.05 / -0.16 / -1.9%
+        - Inclusiveness: 113.52 → 110.61 / -2.91 / -2.6%
+        - Safety: 106.38 → 102.25 / -4.13 / -3.9%
+        - Weather: 107.00 → 101.00 / -6 / -5.6%
+        - Compliance: 69.85 → 65.56 / -4.29 / -6.1%
+        - Taxation: 73.71 → 68.31 / -5.4 / -7.3%
+        - Industry Basket Weaving: -7.87 → -8.60 / -0.73 / -9.3%
+        - Culture: 64.00 → 58.00 / -6 / -9.4%
+        - Welfare: 1,182.67 → 1,071.16 / -111.51 / -9.4%
+        - Human Development Index: 41.07 → 36.78 / -4.29 / -10.4%
+        - Scientific Advancement: 70.36 → 62.05 / -8.31 / -11.8%
+        - Health: 0.72 → 0.62 / -0.1 / -13.9%
+        - Lifespan: 59.81 → 51.48 / -8.33 / -13.9%
+        - Foreign Aid: 495.07 → 421.97 / -73.1 / -14.8%
+        - Average Income of Poor: 10,962.00 → 9,296.63 / -1665.37 / -15.2%
+        - Average Income of Rich: 11,841.18 → 10,042.24 / -1798.94 / -15.2%
+        - Average Income: 11,416.39 → 9,681.98 / -1734.41 / -15.2%
+        - Economic Output: 6,325,000,000,000 → 5,364,000,000,000 / NaN / -15.2%
+        - Law Enforcement: 962.64 → 811.48 / -151.16 / -15.7%
+        - Intelligence: 32.27 → 26.86 / -5.41 / -16.8%
+        - Environmental Beauty: 694.03 → 571.38 / -122.65 / -17.7%
+        - Government Size: 17.75 → 14.39 / -3.36 / -18.9%
+        - Public Education: 797.62 → 616.73 / -180.89 / -22.7%
+        - Defense Forces: 770.11 → 584.27 / -185.84 / -24.1%
+        - Industry Information Technology: 726.11 → 545.32 / -180.79 / -24.9%
+        - Public Healthcare: 687.60 → 486.89 / -200.71 / -29.2%
+        - Public Transport: 660.10 → 454.43 / -205.67 / -31.2%
+        - Eco-Friendliness: 605.09 → 389.51 / -215.58 / -35.6%
+        - Business Subsidization: 467.57 → 227.22 / -240.35 / -51.4%
+        - Industry Book Publishing: -2.90 → -4.50 / -1.6 / -55.2%
+        - Pacifism: 74.50 → 22.93 / -51.57 / -69.2%
+        - Tourism: 1,122.52 → 70.90 / -1051.62 / -93.7%
+
 Issue 138:
   desc: >
     Shall we expand real-estate development into the greenbelts reserved between
