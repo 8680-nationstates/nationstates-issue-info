@@ -4077,4 +4077,40 @@ Issue 550:
         - Industry Beverage Sales: 9.84 → 4.93 / -4.91 / -49.9%
         - Youth Rebelliousness: 0.00 → -2.00 / -2 / -100%
 
+Issue 556:
+  desc: >
+    In the wake of “intense public interest” re an old map that says “Here Be
+    Dragons”, we've discovered that “a disturbingly high percentage of the
+    population” claims to believe in the existence of dragons.
+  choices:
+    - Cut funding from religion, which leads people to believe in such rubbish,
+      and boost funding to education, to teach people better than that.
+    - Don't blame religion, but rather crack down on “godless” and
+      “anti-religious” fantasy fiction.
+    - Boost funding to science and loosen regulation of biological
+      experimentation such that we might be able to make dragons real.
+    - Encourage belief in dragons and spread rumors that I control them, as a
+      means of intimidating the populace.
+  results:
+    - nation: AKA-4
+      time: 2016-11-26 00:43 -0800
+      choice: 1
+      effects:
+        - Secularism: 30.52 → 32.78 / +2.26 / +7.4%
+        - Public Education: 801.91 → 847.72 / +45.81 / +5.7%
+        - Scientific Advancement: 44.16 → 45.28 / +1.12 / +2.5%
+        - Weather: 108.00 → 110.00 / +2 / +1.9%
+        - Intelligence: 35.35 → 35.67 / +0.32 / +0.91%
+        - Compliance: 69.46 → 69.64 / +0.18 / +0.26%
+        - Human Development Index: 41.97 → 42.06 / +0.09 / +0.21%
+        - Pacifism: 109.68 → 109.82 / +0.14 / +0.13%
+        - Crime: 2.33 → 2.32 / -0.01 / -0.43%
+        - Primitiveness: -89.16 → -89.72 / -0.56 / -0.63%
+        - Industry Basket Weaving: -10.77 → -10.95 / -0.18 / -1.7%
+        - Ignorance: 2.24 → 2.20 / -0.04 / -1.8%
+        - Black Market: 10,610,000,000 → 10,420,000,000 / NaN / -1.8%
+        - Culture: 64.00 → 62.00 / -2 / -3.1%
+        - Religiousness: 8.27 → 7.90 / -0.37 / -4.5%
+        - Industry Book Publishing: -8.00 → -8.37 / -0.37 / -4.6%
+
 # Vim: spell textwidth=81
