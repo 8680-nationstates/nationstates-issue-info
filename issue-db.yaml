@@ -1853,6 +1853,60 @@ Issue 066:
         - Averageness: 16.83 → 16.58 / -0.25 / -1.5%
         - Social Conservatism: 10.00 → 9.25 / -0.75 / -7.5%
 
+Issue 069:
+  desc: >
+    An aging electric power generating station needs replacement. What energy
+    source(s) shall we use to replace it?
+  choices:
+    - Wind and solar.
+    - Coal.
+    - Nuclear fission.
+  results:
+    - nation: AKA-5
+      time: 2016-11-26 00:57 -0800
+      choice: 1
+      effects:
+        - Health: 0.80 → 1.00 / +0.2 / +25.0%
+        - Eco-Friendliness: 456.02 → 529.75 / +73.73 / +16.2%
+        - Weather: 106.00 → 108.00 / +2 / +1.9%
+        - Environmental Beauty: 637.35 → 648.68 / +11.33 / +1.8%
+        - Lifespan: 58.72 → 59.51 / +0.79 / +1.3%
+        - Human Development Index: 40.60 → 40.86 / +0.26 / +0.64%
+        - Tourism: 1,077.86 → 1,084.67 / +6.81 / +0.63%
+        - Taxation: 69.20 → 69.55 / +0.35 / +0.51%
+        - Government Size: 17.83 → 17.92 / +0.09 / +0.50%
+        - Industry Cheese Exports: 564.50 → 566.35 / +1.85 / +0.33%
+        - Sector Manufacturing: 556.82 → 558.64 / +1.82 / +0.33%
+        - Business Subsidization: 456.02 → 457.51 / +1.49 / +0.33%
+        - Industry Insurance: 211.21 → 211.90 / +0.69 / +0.33%
+        - Welfare: 1,176.05 → 1,179.89 / +3.84 / +0.33%
+        - Industry Timber Woodchipping: 499.22 → 500.85 / +1.63 / +0.33%
+        - Foreign Aid: 432.02 → 433.43 / +1.41 / +0.33%
+        - Public Education: 696.03 → 698.30 / +2.27 / +0.33%
+        - Industry Arms Manufacturing: 441.62 → 443.06 / +1.44 / +0.33%
+        - Defense Forces: 672.03 → 674.22 / +2.19 / +0.33%
+        - Public Healthcare: 648.03 → 650.14 / +2.11 / +0.33%
+        - Law Enforcement: 648.03 → 650.14 / +2.11 / +0.33%
+        - Industry Furniture Restoration: 691.23 → 693.48 / +2.25 / +0.33%
+        - Industry Retail: 691.23 → 693.48 / +2.25 / +0.33%
+        - Industry Gambling: 239.63 → 240.41 / +0.78 / +0.33%
+        - Public Transport: 576.03 → 577.90 / +1.87 / +0.32%
+        - Industry Information Technology: 249.61 → 250.42 / +0.81 / +0.32%
+        - Industry Automobile Manufacturing: 115.21 → 115.58 / +0.37 / +0.32%
+        - Employment: 74.46 → 74.53 / +0.07 / +0.09%
+        - Economic Output: 6,811,000,000,000 → 6,789,000,000,000 / NaN / -0.32%
+        - Average Income of Rich: 13,585.42 → 13,541.21 / -44.21 / -0.33%
+        - Average Income of Poor: 12,576.73 → 12,535.80 / -40.93 / -0.33%
+        - Average Income: 13,098.05 → 13,055.42 / -42.63 / -0.33%
+        - Black Market: 16,659,999,999 → 16,579,999,999 / NaN / -0.48%
+        - Obesity: 9.89 → 9.80 / -0.09 / -0.91%
+        - Charmlessness: 1.27 → 1.24 / -0.03 / -2.4%
+        - Death Rate: 113.00 → 109.42 / -3.58 / -3.2%
+        - Industry Beverage Sales: 940.84 → 886.12 / -54.72 / -5.8%
+        - Freedom From Taxation: -10.21 → -11.54 / -1.33 / -13.0%
+        - Industry Pizza Delivery: 14.98 → 11.56 / -3.42 / -22.8%
+        - Industry Mining: 403.22 → 308.22 / -95 / -23.6%
+
 Issue 093:
   desc: >
     Shall we require colleges to admit at least some minimum number of
