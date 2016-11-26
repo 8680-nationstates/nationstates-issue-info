@@ -1456,6 +1456,77 @@ Issue 032:
         - Social Conservatism: 45.55 → 43.55 / -2 / -4.4%
         - Religiousness: 11.74 → 10.12 / -1.62 / -13.8%
 
+Issue 035:
+  desc: >
+    How shall we respond to an approaching stream of refugees from foreign
+    conflicts?
+  choices:
+    - Welcome them.
+    - Rebuff them as a threat to our culture and a drain on our economy.
+    - Allow refugees to immigrate, but only if they take menial, low-wage jobs.
+  results:
+    - nation: AKA-0
+      time: 2016-11-26 00:14 -0800
+      choice: 1
+      effects:
+        - Industry Trout Fishing: -0.89 → 0.00 / +0.89 / +100%
+        - Industry Insurance: 99.85 → 123.65 / +23.8 / +23.8%
+        - Industry Automobile Manufacturing: 320.96 → 353.28 / +32.32 / +10.1%
+        - Industry Retail: -4.10 → -3.74 / +0.36 / +8.8%
+        - Industry Furniture Restoration: -4.90 → -4.47 / +0.43 / +8.8%
+        - Industry Timber Woodchipping: 499.27 → 529.93 / +30.66 / +6.1%
+        - Sector Agriculture: -4.12 → -3.87 / +0.25 / +6.1%
+        - Industry Book Publishing: 657.97 → 697.74 / +39.77 / +6.0%
+        - Industry Pizza Delivery: -5.92 → -5.57 / +0.35 / +5.9%
+        - Niceness: 17.69 → 18.66 / +0.97 / +5.5%
+        - Sector Manufacturing: 1,105.53 → 1,165.84 / +60.31 / +5.5%
+        - Industry Information Technology: -5.14 → -4.90 / +0.24 / +4.7%
+        - Religiousness: 8.27 → 8.64 / +0.37 / +4.5%
+        - Industry Basket Weaving: 784.57 → 812.55 / +27.98 / +3.6%
+        - Civil Rights: 59.64 → 61.33 / +1.69 / +2.8%
+        - Industry Mining: -8.60 → -8.37 / +0.23 / +2.7%
+        - Compassion: 47.62 → 48.85 / +1.23 / +2.6%
+        - Industry Cheese Exports: -7.10 → -6.93 / +0.17 / +2.4%
+        - Ideological Radicality: 20.41 → 20.84 / +0.43 / +2.1%
+        - Inclusiveness: 112.95 → 115.20 / +2.25 / +2.0%
+        - Industry Beverage Sales: -10.63 → -10.44 / +0.19 / +1.8%
+        - Primitiveness: 52.92 → 53.85 / +0.93 / +1.8%
+        - Industry Gambling: -15.75 → -15.54 / +0.21 / +1.3%
+        - Welfare: 1,047.58 → 1,059.85 / +12.27 / +1.2%
+        - Black Market: 7,910,000,000 → 8,000,000,000 / NaN / +1.1%
+        - Economic Output: 6,645,000,000,000 → 6,708,000,000,000 / NaN / +0.95%
+        - Average Income of Rich: 10,813.43 → 10,915.62 / +102.19 / +0.95%
+        - Average Income: 10,564.92 → 10,664.76 / +99.84 / +0.95%
+        - Average Income of Poor: 10,295.54 → 10,392.83 / +97.29 / +0.94%
+        - Intelligence: 35.29 → 35.60 / +0.31 / +0.88%
+        - Recreational Drug Use: 43.40 → 43.60 / +0.2 / +0.46%
+        - Pacifism: 118.98 → 119.50 / +0.52 / +0.44%
+        - Freedom From Taxation: -29.38 → -29.31 / +0.07 / +0.24%
+        - Government Size: 19.18 → 19.21 / +0.03 / +0.16%
+        - Nudity: 175.00 → 175.25 / +0.25 / +0.14%
+        - Lifespan: 63.91 → 64.00 / +0.09 / +0.14%
+        - Tourism: 1,207.16 → 1,208.40 / +1.24 / +0.10%
+        - Human Development Index: 43.85 → 43.88 / +0.03 / +0.07%
+        - Environmental Beauty: 808.17 → 807.49 / -0.68 / -0.08%
+        - Taxation: 75.63 → 75.35 / -0.28 / -0.37%
+        - Death Rate: 41.68 → 41.43 / -0.25 / -0.60%
+        - Industry Arms Manufacturing: -11.14 → -11.22 / -0.08 / -0.72%
+        - Public Transport: 512.64 → 507.85 / -4.79 / -0.93%
+        - Law Enforcement: 780.11 → 772.81 / -7.3 / -0.94%
+        - Public Healthcare: 802.40 → 794.89 / -7.51 / -0.94%
+        - Defense Forces: 802.40 → 794.89 / -7.51 / -0.94%
+        - Eco-Friendliness: 646.38 → 640.33 / -6.05 / -0.94%
+        - Public Education: 1,159.02 → 1,148.17 / -10.85 / -0.94%
+        - Business Subsidization: 401.20 → 397.44 / -3.76 / -0.94%
+        - Foreign Aid: 445.78 → 441.60 / -4.18 / -0.94%
+        - Averageness: 34.59 → 34.16 / -0.43 / -1.2%
+        - Ignorance: 2.25 → 2.21 / -0.04 / -1.8%
+        - Rudeness: 13.35 → 13.07 / -0.28 / -2.1%
+        - Scientific Advancement: 46.90 → 45.83 / -1.07 / -2.3%
+        - Social Conservatism: 48.27 → 47.00 / -1.27 / -2.6%
+        - Secularism: 30.52 → 28.40 / -2.12 / -6.9%
+        - Authoritarianism: 1.44 → 1.32 / -0.12 / -8.3%
+
 Issue 039:
   desc: >
     A tabloid magazine has "revealed the sordid details of an affair" between one
