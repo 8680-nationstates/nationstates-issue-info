@@ -2688,6 +2688,64 @@ Issue 239:
         - Economy: 2.88 → 2.12 / -0.76 / -26.4%
         - Industry Pizza Delivery: 0.00 → -2.37 / -2.37 / -100%
         - Industry Trout Fishing: 0.00 → -0.89 / -0.89 / -100%
+    - nation: AKA-3
+      time: 2016-11-26 00:28 -0800
+      choice: 1
+      effects:
+        - Economy: 5.25 → 34.00 / +28.75 / +548%
+        - Industry Gambling: -7.59 → 13.68 / +21.27 / +280%
+        - Average Income of Rich: 16,799.82 → 54,610.91 / +37811.09 / +225%
+        - Black Market: 10,230,000,000 → 32,229,999,999 / NaN / +215%
+        - Industry Book Publishing: 448.73 → 1,253.97 / +805.24 / +179%
+        - Economic Output: 8,949,000,000,000 → 21,638,000,000,000 / NaN / +142%
+        - Average Income: 15,952.30 → 38,570.49 / +22618.19 / +142%
+        - Industry Beverage Sales: 5.90 → 14.25 / +8.35 / +142%
+        - Defense Forces: 1,003.73 → 2,422.45 / +1418.72 / +141%
+        - Business Subsidization: 590.43 → 1,424.97 / +834.54 / +141%
+        - Industry Automobile Manufacturing: 495.96 → 1,196.97 / +701.01 / +141%
+        - Sector Manufacturing: 495.96 → 1,196.97 / +701.01 / +141%
+        - Industry Information Technology: 1,889.38 → 4,559.90 / +2670.52 / +141%
+        - Industry Timber Woodchipping: 614.05 → 1,481.97 / +867.92 / +141%
+        - Foreign Aid: 560.91 → 1,353.72 / +792.81 / +141%
+        - Industry Trout Fishing: 1,530.40 → 3,693.52 / +2163.12 / +141%
+        - Welfare: 1,298.95 → 3,134.93 / +1835.98 / +141%
+        - Public Transport: 738.04 → 1,781.21 / +1043.17 / +141%
+        - Public Education: 915.17 → 2,208.70 / +1293.53 / +141%
+        - Law Enforcement: 1,033.26 → 2,493.70 / +1460.44 / +141%
+        - Eco-Friendliness: 531.39 → 1,282.47 / +751.08 / +141%
+        - Public Healthcare: 885.65 → 2,137.45 / +1251.8 / +141%
+        - Industry Cheese Exports: 198.39 → 478.79 / +280.4 / +141%
+        - Industry Pizza Delivery: 472.35 → 1,025.98 / +553.63 / +117%
+        - Wealth Gaps: 1.12 → 2.10 / +0.98 / +87.5%
+        - Rudeness: 23.90 → 44.37 / +20.47 / +85.6%
+        - Average Income of Poor: 15,059.45 → 26,001.50 / +10942.05 / +72.7%
+        - Freedom From Taxation: -16.44 → -9.15 / +7.29 / +44.3%
+        - Averageness: 31.57 → 40.65 / +9.08 / +28.8%
+        - Economic Freedom: -94.75 → -67.50 / +27.25 / +28.8%
+        - Human Development Index: 41.31 → 48.32 / +7.01 / +17.0%
+        - Industry Basket Weaving: -4.24 → -3.74 / +0.5 / +11.8%
+        - Industry Arms Manufacturing: -7.62 → -7.07 / +0.55 / +7.2%
+        - Crime: 2.26 → 2.38 / +0.12 / +5.3%
+        - Weaponization: 0.19 → 0.20 / +0.01 / +5.3%
+        - Lifespan: 58.87 → 61.89 / +3.02 / +5.1%
+        - Employment: 75.27 → 77.78 / +2.51 / +3.3%
+        - Culture: 64.00 → 66.00 / +2 / +3.1%
+        - Obesity: 9.48 → 9.73 / +0.25 / +2.6%
+        - Charmlessness: 1.32 → 1.35 / +0.03 / +2.3%
+        - Intelligence: 32.63 → 32.75 / +0.12 / +0.37%
+        - Tourism: 1,064.15 → 1,056.01 / -8.14 / -0.76%
+        - Safety: 108.96 → 108.09 / -0.87 / -0.80%
+        - Ignorance: 2.73 → 2.70 / -0.03 / -1.1%
+        - Taxation: 70.59 → 69.76 / -0.83 / -1.2%
+        - Weather: 102.00 → 100.00 / -2 / -2.0%
+        - Compliance: 70.95 → 68.64 / -2.31 / -3.3%
+        - Pacifism: 113.71 → 109.67 / -4.04 / -3.6%
+        - Compassion: 45.34 → 43.00 / -2.34 / -5.2%
+        - Niceness: 15.09 → 13.00 / -2.09 / -13.9%
+        - Ideological Radicality: 23.43 → 14.35 / -9.08 / -38.8%
+        - Income Equality: 89.64 → 47.61 / -42.03 / -46.9%
+        - Death Rate: 112.35 → 51.63 / -60.72 / -54.0%
+        - Authoritarianism: 0.83 → 0.32 / -0.51 / -61.4%
 
 Issue 280:
   desc: >
