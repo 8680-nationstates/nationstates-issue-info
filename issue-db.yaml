@@ -432,6 +432,52 @@ Issue 009:
         - Business Subsidization: 203.62 → 181.01 / -22.61 / -11.1%
         - Sector Agriculture: -7.35 → -8.60 / -1.25 / -17.0%
         - Economy: 1.00 → 0.67 / -0.33 / -33.0%
+    - nation: TSA-5
+      time: 2016-11-27 12:23 -0800
+      choice: 1
+      effects:
+        - Sector Agriculture: 1,567.04 → 3,226.97 / +1659.93 / +106%
+        - Weaponization: 0.59 → 0.60 / +0.01 / +1.7%
+        - Average Income: 53,417.03 → 54,258.78 / +841.75 / +1.6%
+        - Average Income of Rich: 133,842.68 → 135,951.77 / +2109.09 / +1.6%
+        - Average Income of Poor: 17,805.68 → 18,086.26 / +280.58 / +1.6%
+        - Economic Output: 25,639,999,999,999 → 26,044,000,000,000 / NaN / +1.6%
+        - Death Rate: 51.66 → 52.11 / +0.45 / +0.87%
+        - Freedom From Taxation: 101.33 → 102.13 / +0.8 / +0.79%
+        - Rudeness: 46.76 → 47.03 / +0.27 / +0.58%
+        - Charmlessness: 216.19 → 217.36 / +1.17 / +0.54%
+        - Crime: 17.09 → 17.17 / +0.08 / +0.47%
+        - Employment: 71.89 → 71.96 / +0.07 / +0.1%
+        - Lifespan: 61.88 → 61.83 / -0.05 / -0.08%
+        - Obesity: 11.25 → 11.24 / -0.01 / -0.09%
+        - Tourism: 19.85 → 19.79 / -0.06 / -0.30%
+        - Safety: 8.88 → 8.85 / -0.03 / -0.34%
+        - Black Market: 316,739,999,999 → 314,590,000,000 / NaN / -0.68%
+        - Pacifism: 11.34 → 11.25 / -0.09 / -0.79%
+        - Industry Basket Weaving: 684.67 → 673.87 / -10.8 / -1.6%
+        - Industry Furniture Restoration: 684.67 → 673.87 / -10.8 / -1.6%
+        - Defense Forces: 1,925.63 → 1,895.25 / -30.38 / -1.6%
+        - Law Enforcement: 534.90 → 526.46 / -8.44 / -1.6%
+        - Industry Cheese Exports: 4,410.98 → 4,341.38 / -69.6 / -1.6%
+        - Industry Gambling: 5,699.87 → 5,609.93 / -89.94 / -1.6%
+        - Industry Automobile Manufacturing: 3,680.10 → 3,622.03 / -58.07 / -1.6%
+        - Industry Beverage Sales: 3,680.10 → 3,622.03 / -58.07 / -1.6%
+        - Industry Book Publishing: 813.04 → 800.21 / -12.83 / -1.6%
+        - Industry Mining: 1,540.51 → 1,516.20 / -24.31 / -1.6%
+        - Sector Manufacturing: 4,364.77 → 4,295.89 / -68.88 / -1.6%
+        - Industry Trout Fishing: 6,149.19 → 6,052.15 / -97.04 / -1.6%
+        - Industry Information Technology: 5,562.94 → 5,475.15 / -87.79 / -1.6%
+        - Industry Retail: 3,936.85 → 3,874.72 / -62.13 / -1.6%
+        - Public Transport: 855.84 → 842.33 / -13.51 / -1.6%
+        - Public Education: 855.84 → 842.33 / -13.51 / -1.6%
+        - Public Healthcare: 962.82 → 947.62 / -15.2 / -1.6%
+        - Eco-Friendliness: 320.94 → 315.87 / -5.07 / -1.6%
+        - Business Subsidization: 320.94 → 315.87 / -5.07 / -1.6%
+        - Taxation: 9.63 → 9.45 / -0.18 / -1.9%
+        - Compliance: 25.85 → 25.02 / -0.83 / -3.2%
+        - Compassion: 26.84 → 25.82 / -1.02 / -3.8%
+        - Niceness: 5.56 → 4.55 / -1.01 / -18.2%
+        - Industry Pizza Delivery: -1.55 → -2.00 / -0.45 / -29.0%
 
 Issue 014:
   desc: >
