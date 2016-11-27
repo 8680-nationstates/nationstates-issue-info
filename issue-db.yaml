@@ -637,6 +637,43 @@ Issue 014:
         - Government Size: 4.36 → 3.61 / -0.75 / -17.2%
         - Law Enforcement: -7.07 → -8.37 / -1.3 / -18.4%
         - Defense Forces: 772.11 → 193.99 / -578.12 / -74.9%
+    - nation: TSA-7
+      time: 2016-11-27 12:39 -0800
+      choice: 1
+      effects:
+        - Defense Forces: 265.66 → 1,315.08 / +1049.42 / +395%
+        - Government Size: 1.73 → 3.32 / +1.59 / +91.9%
+        - Ignorance: 2.86 → 3.61 / +0.75 / +26.2%
+        - Averageness: 21.91 → 25.24 / +3.33 / +15.2%
+        - Corruption: 0.73 → 0.81 / +0.08 / +11.0%
+        - Taxation: 4.75 → 5.09 / +0.34 / +7.2%
+        - Weaponization: 12.70 → 12.96 / +0.26 / +2.0%
+        - Crime: 22.03 → 22.32 / +0.29 / +1.3%
+        - Economic Output: 20,411,999,999,999 → 20,617,000,000,000 / NaN / +1.0%
+        - Average Income: 42,086.06 → 42,508.54 / +422.48 / +1.0%
+        - Average Income of Rich: 208,559.82 → 210,653.44 / +2093.62 / +1.0%
+        - Average Income of Poor: 4,815.82 → 4,864.16 / +48.34 / +1.0%
+        - Tourism: 20.56 → 20.76 / +0.2 / +0.97%
+        - Black Market: 87,710,000,000 → 88,150,000,000 / NaN / +0.50%
+        - Obesity: 17.23 → 17.20 / -0.03 / -0.17%
+        - Integrity: 94.07 → 93.73 / -0.34 / -0.36%
+        - Public Healthcare: 132.83 → 131.51 / -1.32 / -0.99%
+        - Industry Gambling: 616.33 → 610.20 / -6.13 / -0.99%
+        - Industry Mining: 6,907.19 → 6,838.40 / -68.79 / -1.00%
+        - Industry Beverage Sales: 6,375.87 → 6,312.37 / -63.5 / -1.00%
+        - Industry Retail: 8,288.63 → 8,206.08 / -82.55 / -1.00%
+        - Industry Furniture Restoration: 2,656.61 → 2,630.15 / -26.46 / -1.00%
+        - Sector Agriculture: 3,453.60 → 3,419.20 / -34.4 / -1.00%
+        - Charmlessness: 202.55 → 198.75 / -3.8 / -1.9%
+        - Freedom From Taxation: 123.76 → 121.01 / -2.75 / -2.2%
+        - Safety: 7.71 → 7.53 / -0.18 / -2.3%
+        - Compliance: 11.24 → 10.96 / -0.28 / -2.5%
+        - Pacifism: 9.37 → 9.02 / -0.35 / -3.7%
+        - Industry Pizza Delivery: 5,950.81 → 5,681.13 / -269.68 / -4.5%
+        - Intelligence: 32.12 → 30.37 / -1.75 / -5.4%
+        - Rudeness: 90.87 → 83.54 / -7.33 / -8.1%
+        - Political Freedom: 78.00 → 71.33 / -6.67 / -8.6%
+        - Ideological Radicality: 33.09 → 29.76 / -3.33 / -10.1%
 
 Issue 016:
   desc: >
