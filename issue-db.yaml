@@ -378,6 +378,63 @@ Issue 006:
         - Secularism: 26.67 → 25.11 / -1.56 / -5.8%
         - Inclusiveness: 72.00 → 37.82 / -34.18 / -47.5%
 
+Issue 008:
+  desc: >
+    Shall we legalize public nudity?
+  choices:
+    - Yes.
+    - Don't merely legalize it, but rather mandate it.
+    - No.
+  results:
+    - nation: TSA-6
+      time: 2016-11-27 12:33 -0800
+      choice: 1
+      effects:
+        - Nudity: 182.25 → 208.75 / +26.5 / +14.5%
+        - Rudeness: 75.78 → 78.06 / +2.28 / +3.0%
+        - Ideological Radicality: 23.93 → 24.49 / +0.56 / +2.3%
+        - Civil Rights: 81.05 → 82.25 / +1.2 / +1.5%
+        - Intelligence: 32.81 → 33.10 / +0.29 / +0.88%
+        - Black Market: 124,660,000,000 → 125,250,000,000 / NaN / +0.47%
+        - Average Income: 57,025.89 → 57,266.78 / +240.89 / +0.42%
+        - Average Income of Rich: 201,853.56 → 202,706.22 / +852.66 / +0.42%
+        - Average Income of Poor: 11,632.15 → 11,681.28 / +49.13 / +0.42%
+        - Economic Output: 26,802,000,000,000 → 26,914,999,999,999 / NaN / +0.42%
+        - Recreational Drug Use: 99.20 → 99.60 / +0.4 / +0.40%
+        - Weaponization: 13.68 → 13.73 / +0.05 / +0.37%
+        - Crime: 21.41 → 21.47 / +0.06 / +0.28%
+        - Charmlessness: 181.66 → 182.01 / +0.35 / +0.19%
+        - Freedom From Taxation: 128.92 → 129.14 / +0.22 / +0.17%
+        - Tourism: 21.73 → 21.71 / -0.02 / -0.09%
+        - Pacifism: 9.07 → 9.06 / -0.01 / -0.11%
+        - Taxation: 4.64 → 4.63 / -0.01 / -0.22%
+        - Safety: 7.95 → 7.93 / -0.02 / -0.25%
+        - Public Transport: 107.73 → 107.28 / -0.45 / -0.42%
+        - Public Education: 107.73 → 107.28 / -0.45 / -0.42%
+        - Industry Insurance: 1,335.90 → 1,330.29 / -5.61 / -0.42%
+        - Industry Furniture Restoration: 2,154.68 → 2,145.63 / -9.05 / -0.42%
+        - Industry Timber Woodchipping: 861.87 → 858.25 / -3.62 / -0.42%
+        - Industry Information Technology: 2,327.06 → 2,317.28 / -9.78 / -0.42%
+        - Industry Cheese Exports: 1,551.37 → 1,544.85 / -6.52 / -0.42%
+        - Industry Pizza Delivery: 4,912.68 → 4,892.03 / -20.65 / -0.42%
+        - Industry Automobile Manufacturing: 3,016.56 → 3,003.88 / -12.68 / -0.42%
+        - Sector Manufacturing: 3,016.56 → 3,003.88 / -12.68 / -0.42%
+        - Industry Book Publishing: 6,722.62 → 6,694.36 / -28.26 / -0.42%
+        - Industry Beverage Sales: 2,585.62 → 2,574.75 / -10.87 / -0.42%
+        - Industry Gambling: 6,705.38 → 6,677.19 / -28.19 / -0.42%
+        - Industry Mining: 7,325.93 → 7,295.13 / -30.8 / -0.42%
+        - Sector Agriculture: 4,240.42 → 4,222.59 / -17.83 / -0.42%
+        - Industry Retail: 4,137.00 → 4,119.60 / -17.4 / -0.42%
+        - Industry Trout Fishing: 689.50 → 686.60 / -2.9 / -0.42%
+        - Defense Forces: 323.20 → 321.84 / -1.36 / -0.42%
+        - Public Healthcare: 215.47 → 214.56 / -0.91 / -0.42%
+        - Law Enforcement: 215.47 → 214.56 / -0.91 / -0.42%
+        - Compliance: 11.88 → 11.81 / -0.07 / -0.59%
+        - Obesity: 15.06 → 14.97 / -0.09 / -0.60%
+        - Averageness: 31.07 → 30.51 / -0.56 / -1.8%
+        - Ignorance: 2.69 → 2.62 / -0.07 / -2.6%
+        - Social Conservatism: 19.43 → 17.75 / -1.68 / -8.6%
+
 Issue 009:
   desc: >
     The Beef-Based Agriculture Industry says that the population of our national
