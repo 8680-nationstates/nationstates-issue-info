@@ -1247,6 +1247,41 @@ Issue 026:
         - Nudity: 119.25 → 110.25 / -9 / -7.5%
         - Industry Pizza Delivery: 11.75 → 8.24 / -3.51 / -29.9%
         - Industry Beverage Sales: 156.63 → 78.49 / -78.14 / -49.9%
+    - nation: TSA-2
+      time: 2016-11-27 12:14 -0800
+      choice: 2
+      effects:
+        - Industry Pizza Delivery: 443.19 → 630.71 / +187.52 / +42.3%
+        - Obesity: 15.96 → 16.71 / +0.75 / +4.7%
+        - Industry Beverage Sales: 5,607.71 → 5,856.57 / +248.86 / +4.4%
+        - Death Rate: 107.95 → 110.43 / +2.48 / +2.3%
+        - Political Apathy: 52.16 → 52.64 / +0.48 / +0.92%
+        - Freedom From Taxation: 129.69 → 130.22 / +0.53 / +0.41%
+        - Economic Output: 21,955,000,000,000 → 22,040,000,000,000 / NaN / +0.39%
+        - Average Income: 45,268.70 → 45,442.48 / +173.78 / +0.38%
+        - Average Income of Rich: 348,100.69 → 349,436.97 / +1336.28 / +0.38%
+        - Average Income of Poor: 1,576.52 → 1,582.57 / +6.05 / +0.38%
+        - Black Market: 94,870,000,000 → 95,230,000,000 / NaN / +0.38%
+        - Employment: 76.39 → 76.35 / -0.04 / -0.05%
+        - Human Development Index: 50.51 → 50.35 / -0.16 / -0.32%
+        - Industry Cheese Exports: 1,356.70 → 1,351.52 / -5.18 / -0.38%
+        - Industry Information Technology: 633.13 → 630.71 / -2.42 / -0.38%
+        - Industry Insurance: 316.56 → 315.35 / -1.21 / -0.38%
+        - Industry Mining: 6,783.52 → 6,757.58 / -25.94 / -0.38%
+        - Industry Book Publishing: 6,150.39 → 6,126.87 / -23.52 / -0.38%
+        - Sector Manufacturing: 9,632.60 → 9,595.76 / -36.84 / -0.38%
+        - Industry Basket Weaving: 5,426.82 → 5,406.06 / -20.76 / -0.38%
+        - Industry Timber Woodchipping: 2,713.41 → 2,703.03 / -10.38 / -0.38%
+        - Industry Furniture Restoration: 4,522.35 → 4,505.05 / -17.3 / -0.38%
+        - Industry Automobile Manufacturing: 3,617.88 → 3,604.04 / -13.84 / -0.38%
+        - Industry Arms Manufacturing: 587.91 → 585.66 / -2.25 / -0.38%
+        - Defense Forces: 226.12 → 225.25 / -0.87 / -0.38%
+        - Lifespan: 59.78 → 59.30 / -0.48 / -0.80%
+        - Taxation: 4.53 → 4.49 / -0.04 / -0.88%
+        - Weather: 103.00 → 101.00 / -2 / -1.9%
+        - Government Size: 2.00 → 1.73 / -0.27 / -13.5%
+        - Public Healthcare: 226.12 → 112.63 / -113.49 / -50.2%
+        - Health: 2.52 → 1.00 / -1.52 / -60.3%
 
 Issue 027:
   desc: >
