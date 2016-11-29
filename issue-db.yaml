@@ -4482,4 +4482,63 @@ Issue 556:
         - Religiousness: 8.27 → 7.90 / -0.37 / -4.5%
         - Industry Book Publishing: -8.00 → -8.37 / -0.37 / -4.6%
 
+Issue 567:
+  desc: >
+    Journalists and securities analysts allege that the Minister for the
+    Treasury's reports on the economy are deliberately vague, and obfuscated with
+    excessive verbiage.
+  choices:
+    - Require official reports to use simple language.
+    - Agree with the minister, who seems to vaguely say that the reports'
+      impenetrability is good because it decreases market volatility.
+    - Require all such “government commentary” to be rendered in legalese for
+      clarity.
+  results:
+    - nation: AKA-0
+      time: 2016-11-28 21:40 -0800
+      choice: 1
+      effects:
+        - Authoritarianism: 1.32 → 1.44 / +0.12 / +9.1%
+        - Ignorance: 2.21 → 2.30 / +0.09 / +4.1%
+        - Primitiveness: 53.85 → 54.77 / +0.92 / +1.7%
+        - Ideological Radicality: 20.84 → 21.09 / +0.25 / +1.2%
+        - Weather: 126.00 → 127.00 / +1 / +0.79%
+        - Industry Automobile Manufacturing: 353.28 → 355.35 / +2.07 / +0.59%
+        - Industry Basket Weaving: 812.55 → 817.30 / +4.75 / +0.58%
+        - Foreign Aid: 441.60 → 444.18 / +2.58 / +0.58%
+        - Welfare: 1,059.85 → 1,066.04 / +6.19 / +0.58%
+        - Business Subsidization: 397.44 → 399.76 / +2.32 / +0.58%
+        - Public Healthcare: 794.89 → 799.53 / +4.64 / +0.58%
+        - Defense Forces: 794.89 → 799.53 / +4.64 / +0.58%
+        - Law Enforcement: 772.81 → 777.32 / +4.51 / +0.58%
+        - Public Education: 1,148.17 → 1,154.87 / +6.7 / +0.58%
+        - Industry Book Publishing: 697.74 → 701.81 / +4.07 / +0.58%
+        - Sector Manufacturing: 1,165.84 → 1,172.64 / +6.8 / +0.58%
+        - Industry Timber Woodchipping: 529.93 → 533.02 / +3.09 / +0.58%
+        - Public Transport: 507.85 → 510.81 / +2.96 / +0.58%
+        - Eco-Friendliness: 640.33 → 644.06 / +3.73 / +0.58%
+        - Safety: 104.21 → 104.79 / +0.58 / +0.56%
+        - Industry Gambling: -15.54 → -15.47 / +0.07 / +0.45%
+        - Taxation: 75.35 → 75.58 / +0.23 / +0.31%
+        - Employment: 74.68 → 74.88 / +0.2 / +0.27%
+        - Social Conservatism: 47.00 → 47.08 / +0.08 / +0.17%
+        - Lifespan: 64.00 → 64.07 / +0.07 / +0.11%
+        - Human Development Index: 43.88 → 43.83 / -0.05 / -0.11%
+        - Civil Rights: 61.33 → 61.22 / -0.11 / -0.18%
+        - Death Rate: 41.43 → 41.22 / -0.21 / -0.51%
+        - Economic Output: 6,911,000,000,000 → 6,870,999,999,999 / NaN / -0.58%
+        - Average Income of Poor: 10,392.83 → 10,332.29 / -60.54 / -0.58%
+        - Average Income of Rich: 10,915.62 → 10,852.03 / -63.59 / -0.58%
+        - Average Income: 10,664.76 → 10,602.63 / -62.13 / -0.58%
+        - Averageness: 34.16 → 33.91 / -0.25 / -0.73%
+        - Freedom From Taxation: -29.31 → -29.59 / -0.28 / -0.96%
+        - Rudeness: 13.07 → 12.92 / -0.15 / -1.1%
+        - Intelligence: 35.60 → 34.94 / -0.66 / -1.9%
+        - Corruption: 1.25 → 1.22 / -0.03 / -2.4%
+        - Scientific Advancement: 45.83 → 44.72 / -1.11 / -2.4%
+        - Black Market: 8,239,999,999 → 8,039,999,999 / NaN / -2.4%
+        - Political Freedom: 44.22 → 43.11 / -1.11 / -2.5%
+        - Political Apathy: 35.36 → 25.00 / -10.36 / -29.3%
+        - Industry Insurance: 123.65 → 0.00 / -123.65 / -100%
+
 # Vim: spell textwidth=81
