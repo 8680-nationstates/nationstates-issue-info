@@ -2943,6 +2943,58 @@ Issue 162:
         - Economy: 4.00 → 0.00 / -4 / -100%
         - Industry Automobile Manufacturing: 22.43 → -1.41 / -23.84 / -106%
 
+Issue 164:
+  desc: >
+    Reports of child abuse and neglect increase. Shall we require people to be
+    tested and licensed to have children?
+  choices:
+    - Yes.
+    - No.
+    - No, but instead hire more social workers to monitor parents' parenting.
+  results:
+    - nation: AKA-4
+      time: 2016-12-02 21:44 -0800
+      choice: 1
+      effects:
+        - Authoritarianism: 0.32 → 0.36 / +0.04 / +12.5%
+        - Social Conservatism: 39.67 → 42.29 / +2.62 / +6.6%
+        - Averageness: 27.57 → 28.45 / +0.88 / +3.2%
+        - Ignorance: 2.20 → 2.26 / +0.06 / +2.7%
+        - Compliance: 69.64 → 70.08 / +0.44 / +0.63%
+        - Tourism: 1,104.64 → 1,110.62 / +5.98 / +0.54%
+        - Pacifism: 109.82 → 110.41 / +0.59 / +0.54%
+        - Government Size: 19.00 → 19.05 / +0.05 / +0.26%
+        - Economic Output: 7,676,000,000,000 → 7,689,000,000,000 / NaN / +0.17%
+        - Average Income: 13,707.47 → 13,729.91 / +22.44 / +0.16%
+        - Average Income of Rich: 14,217.52 → 14,240.79 / +23.27 / +0.16%
+        - Average Income of Poor: 13,161.90 → 13,183.44 / +21.54 / +0.16%
+        - Taxation: 71.19 → 71.30 / +0.11 / +0.15%
+        - Obesity: 9.04 → 9.03 / -0.01 / -0.11%
+        - Industry Insurance: 219.95 → 219.58 / -0.37 / -0.17%
+        - Industry Mining: 403.24 → 402.56 / -0.68 / -0.17%
+        - Public Transport: 618.61 → 617.56 / -1.05 / -0.17%
+        - Public Education: 847.72 → 846.28 / -1.44 / -0.17%
+        - Law Enforcement: 641.52 → 640.43 / -1.09 / -0.17%
+        - Industry Trout Fishing: 4,684.94 → 4,676.97 / -7.97 / -0.17%
+        - Business Subsidization: 458.23 → 457.45 / -0.78 / -0.17%
+        - Public Healthcare: 710.26 → 709.05 / -1.21 / -0.17%
+        - Defense Forces: 710.26 → 709.05 / -1.21 / -0.17%
+        - Welfare: 1,191.40 → 1,189.37 / -2.03 / -0.17%
+        - Foreign Aid: 481.14 → 480.32 / -0.82 / -0.17%
+        - Eco-Friendliness: 549.88 → 548.94 / -0.94 / -0.17%
+        - Crime: 2.32 → 2.30 / -0.02 / -0.86%
+        - Intelligence: 35.67 → 35.24 / -0.43 / -1.2%
+        - Recreational Drug Use: 40.20 → 39.60 / -0.6 / -1.5%
+        - Charmlessness: 1.17 → 1.15 / -0.02 / -1.7%
+        - Civil Rights: 67.56 → 65.81 / -1.75 / -2.6%
+        - Freedom From Taxation: -24.07 → -24.74 / -0.67 / -2.8%
+        - Ideological Radicality: 27.43 → 26.55 / -0.88 / -3.2%
+        - Black Market: 11,220,000,000 → 10,720,000,000 / NaN / -4.5%
+        - Nudity: 137.25 → 130.50 / -6.75 / -4.9%
+        - Weaponization: 0.20 → 0.19 / -0.01 / -5.0%
+        - Industry Beverage Sales: -9.27 → -10.10 / -0.83 / -9.0%
+        - Youth Rebelliousness: 0.00 → -2.00 / -2 / -100%
+
 Issue 210:
   desc: >
     Should postal services be privatized?
