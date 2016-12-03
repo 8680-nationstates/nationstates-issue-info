@@ -3116,6 +3116,28 @@ Issue 239:
         - Death Rate: 112.35 → 51.63 / -60.72 / -54.0%
         - Authoritarianism: 0.83 → 0.32 / -0.51 / -61.4%
 
+Issue 241:
+  desc: >
+    Our Houses of Parliament are becoming overcrowded with politicians as the
+    nation and its government grow. Shall we build a larger building elsewhere?
+  choices:
+    - Build a larger building in a major city, which becomes the new capital
+      city. (This option unlocks the capital city field.)
+    - Dispense with having a capital city at the national level. (This option
+      leaves the capital city field locked.)
+    - Build a whole new capital city underground, where it will be more
+      defensible. (This option unlocks the capital city field.)
+    - Accept a theme park tycoon's offer of retrofitting a theme park as the new
+      seat of the legislature (while continuing to operate it as a theme park).
+      (This option unlocks the capital city field.)
+    - Cut down on the size of the government so that it will continue to fit in
+      the current building. (This option leaves the capital city field locked.)
+  results:
+    - nation: AKA-0
+      time: 2016-12-02 19:59 -0800
+      choice: 1
+      effects: []
+
 Issue 280:
   desc: >
     An airship, the “Hiddenburg”, has crashed in the capital, causing much
