@@ -4349,6 +4349,68 @@ Issue 543:
         - Industry Information Technology: 361.46 → -3.79 / -365.25 / -101%
         - Freedom From Taxation: -1.49 → -4.39 / -2.9 / -195%
 
+Issue 547:
+  desc: >
+    Tourist attraction “OceanWorld” has been revealed to mistreat its captive
+    marine mammals.
+  choices:
+    - Ban keeping such animals (or possibly any animals) in captivity.
+    - Do nothing.
+    - Tighten regulations on, but do not ban, the keeping of animals in
+      captivity.
+  results:
+    - nation: AKA-1
+      time: 2016-12-02 21:04 -0800
+      choice: 1
+      effects:
+        - Niceness: 12.00 → 13.00 / +1 / +8.3%
+        - Environmental Beauty: 666.57 → 697.11 / +30.54 / +4.6%
+        - Compassion: 42.00 → 43.68 / +1.68 / +4.0%
+        - Industry Insurance: -6.78 → -6.56 / +0.22 / +3.2%
+        - Eco-Friendliness: 1,458.19 → 1,501.41 / +43.22 / +3.0%
+        - Weather: 109.00 → 112.00 / +3 / +2.8%
+        - Ideological Radicality: 12.06 → 12.39 / +0.33 / +2.7%
+        - Tourism: 1,095.83 → 1,112.40 / +16.57 / +1.5%
+        - Income Equality: 59.46 → 60.19 / +0.73 / +1.2%
+        - Pacifism: 101.16 → 102.39 / +1.23 / +1.2%
+        - Lifespan: 63.74 → 64.37 / +0.63 / +0.99%
+        - Crime: 2.43 → 2.44 / +0.01 / +0.41%
+        - Black Market: 28,100,000,000 → 28,180,000,000 / NaN / +0.28%
+        - Taxation: 72.47 → 72.62 / +0.15 / +0.21%
+        - Safety: 103.55 → 103.74 / +0.19 / +0.18%
+        - Government Size: 16.94 → 16.97 / +0.03 / +0.18%
+        - Compliance: 67.71 → 67.65 / -0.06 / -0.09%
+        - Employment: 77.46 → 77.34 / -0.12 / -0.15%
+        - Averageness: 42.94 → 42.61 / -0.33 / -0.77%
+        - Cheerfulness: 50.00 → 49.50 / -0.5 / -1.0%
+        - Wealth Gaps: 1.68 → 1.66 / -0.02 / -1.2%
+        - Economic Freedom: -75.62 → -76.62 / -1 / -1.3%
+        - Average Income of Poor: 20,443.73 → 20,145.90 / -297.83 / -1.5%
+        - Industry Gambling: 375.63 → 368.35 / -7.28 / -1.9%
+        - Sector Agriculture: 612.44 → 600.57 / -11.87 / -1.9%
+        - Industry Trout Fishing: 209.98 → 205.91 / -4.07 / -1.9%
+        - Industry Information Technology: 571.61 → 560.53 / -11.08 / -1.9%
+        - Foreign Aid: 1,093.64 → 1,072.44 / -21.2 / -1.9%
+        - Business Subsidization: 874.91 → 857.95 / -16.96 / -1.9%
+        - Law Enforcement: 1,458.19 → 1,429.92 / -28.27 / -1.9%
+        - Defense Forces: 1,239.46 → 1,215.43 / -24.03 / -1.9%
+        - Industry Retail: 1,662.34 → 1,630.11 / -32.23 / -1.9%
+        - Industry Furniture Restoration: 1,283.21 → 1,258.33 / -24.88 / -1.9%
+        - Welfare: 2,989.29 → 2,931.33 / -57.96 / -1.9%
+        - Public Healthcare: 1,968.56 → 1,930.39 / -38.17 / -1.9%
+        - Public Transport: 1,749.83 → 1,715.90 / -33.93 / -1.9%
+        - Public Education: 3,499.66 → 3,431.80 / -67.86 / -1.9%
+        - Economic Output: 18,523,000,000,000 → 18,135,000,000,000 / NaN / -2.1%
+        - Average Income: 26,923.43 → 26,358.51 / -564.92 / -2.1%
+        - Average Income of Rich: 34,381.82 → 33,468.75 / -913.07 / -2.7%
+        - Rudeness: 37.76 → 36.71 / -1.05 / -2.8%
+        - Economy: 24.38 → 23.38 / -1 / -4.1%
+        - Death Rate: 42.19 → 40.44 / -1.75 / -4.1%
+        - Charmlessness: 1.20 → 1.15 / -0.05 / -4.2%
+        - Industry Arms Manufacturing: 1,283.21 → 1,143.93 / -139.28 / -10.9%
+        - Sector Manufacturing: 1,283.21 → 1,143.93 / -139.28 / -10.9%
+        - Freedom From Taxation: -0.76 → -1.34 / -0.58 / -76.3%
+
 Issue 548:
   desc: >
     Our chief science advisor has accidentally disintegrated himself, and a
