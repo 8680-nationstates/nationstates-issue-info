@@ -3007,6 +3007,65 @@ Issue 210:
         - Industry Timber Woodchipping: 18.29 → -2.45 / -20.74 / -113%
         - Freedom From Taxation: -7.07 → -16.95 / -9.88 / -140%
 
+Issue 211:
+  desc: >
+    Shall we permit our Arms Manufacturing industry to produce a new type of gun
+    for our military that “works by shredding people's internal organs”.
+  choices:
+    - Yes, and allow them to sell it to the police and the public as well.
+    - No, and also ban mustard gas.
+    - Yes, but don't allow them to be sold other than to the military.
+  results:
+    - nation: AKA-3
+      time: 2016-12-02 21:37 -0800
+      choice: 1
+      effects:
+        - Industry Arms Manufacturing: -7.07 → 842.02 / +849.09 / +12,010%
+        - Sector Manufacturing: 1,196.97 → 2,020.86 / +823.89 / +68.8%
+        - Weaponization: 0.20 → 0.33 / +0.13 / +65.0%
+        - Civil Rights: 44.89 → 56.19 / +11.3 / +25.2%
+        - Nudity: 92.25 → 112.50 / +20.25 / +22.0%
+        - Defense Forces: 2,422.45 → 2,736.58 / +314.13 / +13.0%
+        - Averageness: 40.65 → 43.48 / +2.83 / +7.0%
+        - Law Enforcement: 2,493.70 → 2,666.41 / +172.71 / +6.9%
+        - Recreational Drug Use: 36.20 → 38.00 / +1.8 / +5.0%
+        - Intelligence: 32.75 → 34.18 / +1.43 / +4.4%
+        - Black Market: 34,410,000,000 → 35,420,000,000 / NaN / +2.9%
+        - Economic Output: 23,104,000,000,000 → 23,460,000,000,000 / NaN / +1.5%
+        - Average Income of Rich: 54,610.91 → 55,452.38 / +841.47 / +1.5%
+        - Average Income: 38,570.49 → 39,164.80 / +594.31 / +1.5%
+        - Average Income of Poor: 26,001.50 → 26,402.14 / +400.64 / +1.5%
+        - Government Size: 18.22 → 18.44 / +0.22 / +1.2%
+        - Safety: 108.09 → 108.93 / +0.84 / +0.78%
+        - Tourism: 1,056.01 → 1,060.59 / +4.58 / +0.43%
+        - Death Rate: 51.63 → 51.75 / +0.12 / +0.23%
+        - Taxation: 69.76 → 69.91 / +0.15 / +0.22%
+        - Employment: 77.78 → 77.89 / +0.11 / +0.14%
+        - Compliance: 68.64 → 68.49 / -0.15 / -0.22%
+        - Charmlessness: 1.35 → 1.33 / -0.02 / -1.5%
+        - Eco-Friendliness: 1,282.47 → 1,263.04 / -19.43 / -1.5%
+        - Foreign Aid: 1,353.72 → 1,333.21 / -20.51 / -1.5%
+        - Industry Book Publishing: 1,253.97 → 1,234.97 / -19 / -1.5%
+        - Public Transport: 1,781.21 → 1,754.22 / -26.99 / -1.5%
+        - Industry Trout Fishing: 3,693.52 → 3,637.55 / -55.97 / -1.5%
+        - Public Healthcare: 2,137.45 → 2,105.06 / -32.39 / -1.5%
+        - Public Education: 2,208.70 → 2,175.23 / -33.47 / -1.5%
+        - Industry Information Technology: 4,559.90 → 4,490.80 / -69.1 / -1.5%
+        - Industry Automobile Manufacturing: 1,196.97 → 1,178.83 / -18.14 / -1.5%
+        - Welfare: 3,134.93 → 3,087.42 / -47.51 / -1.5%
+        - Industry Timber Woodchipping: 1,481.97 → 1,459.51 / -22.46 / -1.5%
+        - Business Subsidization: 1,424.97 → 1,403.37 / -21.6 / -1.5%
+        - Industry Cheese Exports: 478.79 → 471.53 / -7.26 / -1.5%
+        - Industry Gambling: 13.68 → 13.47 / -0.21 / -1.5%
+        - Industry Beverage Sales: 14.25 → 14.03 / -0.22 / -1.5%
+        - Ignorance: 2.70 → 2.42 / -0.28 / -10.4%
+        - Social Conservatism: 59.33 → 50.86 / -8.47 / -14.3%
+        - Ideological Radicality: 14.35 → 11.52 / -2.83 / -19.7%
+        - Industry Pizza Delivery: 1,025.98 → 785.89 / -240.09 / -23.4%
+        - Freedom From Taxation: -9.15 → -11.38 / -2.23 / -24.4%
+        - Authoritarianism: 0.32 → 0.23 / -0.09 / -28.1%
+        - Pacifism: 109.67 → 14.02 / -95.65 / -87.2%
+
 Issue 222:
   desc: >
     A Lilliputian terrorist group has detonated a car-bomb in our capital city.
