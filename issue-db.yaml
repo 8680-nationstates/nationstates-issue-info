@@ -3402,6 +3402,31 @@ Issue 241:
         - Corruption: 0.82 → 0.81 / -0.01 / -1.2%
         - Averageness: 43.48 → 42.76 / -0.72 / -1.7%
         - Ignorance: 2.42 → 2.36 / -0.06 / -2.5%
+    - nation: AKA-4
+      time: 2016-12-03 18:31 -0800
+      choice: 5
+      effects:
+        - Freedom From Taxation: -24.74 → -20.74 / +4 / +16.2%
+        - Foreign Aid: 480.32 → 485.20 / +4.88 / +1.0%
+        - Public Transport: 617.56 → 623.83 / +6.27 / +1.0%
+        - Public Education: 846.28 → 854.87 / +8.59 / +1.0%
+        - Industry Trout Fishing: 4,676.97 → 4,724.44 / +47.47 / +1.0%
+        - Law Enforcement: 640.43 → 646.93 / +6.5 / +1.0%
+        - Welfare: 1,189.37 → 1,201.44 / +12.07 / +1.0%
+        - Eco-Friendliness: 548.94 → 554.51 / +5.57 / +1.0%
+        - Business Subsidization: 457.45 → 462.09 / +4.64 / +1.0%
+        - Public Healthcare: 709.05 → 716.24 / +7.19 / +1.0%
+        - Defense Forces: 709.05 → 716.24 / +7.19 / +1.0%
+        - Industry Mining: 402.56 → 406.64 / +4.08 / +1.0%
+        - Industry Insurance: 219.58 → 221.80 / +2.22 / +1.0%
+        - Death Rate: 69.09 → 68.94 / -0.15 / -0.22%
+        - Black Market: 10,720,000,000 → 10,660,000,000 / NaN / -0.56%
+        - Taxation: 71.30 → 70.67 / -0.63 / -0.88%
+        - Economic Output: 7,689,000,000,000 → 7,612,000,000,000 / NaN / -1.0%
+        - Average Income of Poor: 13,183.44 → 13,051.04 / -132.4 / -1.0%
+        - Average Income: 13,729.91 → 13,592.02 / -137.89 / -1.0%
+        - Average Income of Rich: 14,240.79 → 14,097.76 / -143.03 / -1.0%
+        - Government Size: 19.05 → 18.73 / -0.32 / -1.7%
 
 Issue 280:
   desc: >
