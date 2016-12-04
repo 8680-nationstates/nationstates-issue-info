@@ -3340,6 +3340,43 @@ Issue 241:
         - Average Income: 26,358.51 → 26,071.01 / -287.5 / -1.1%
         - Average Income of Rich: 33,468.75 → 33,103.69 / -365.06 / -1.1%
         - Government Size: 16.97 → 16.73 / -0.24 / -1.4%
+    - nation: AKA-2
+      time: 2016-12-03 18:27 -0800
+      choice: 3
+      effects:
+        - Industry Timber Woodchipping: -7.21 → -3.46 / +3.75 / +52.0%
+        - Industry Mining: -9.59 → -7.21 / +2.38 / +24.8%
+        - Defense Forces: 715.66 → 765.50 / +49.84 / +7.0%
+        - Government Size: 14.39 → 14.97 / +0.58 / +4.0%
+        - Average Income of Poor: 11,195.47 → 11,629.47 / +434 / +3.9%
+        - Average Income: 11,859.23 → 12,318.96 / +459.73 / +3.9%
+        - Average Income of Rich: 12,489.30 → 12,973.45 / +484.15 / +3.9%
+        - Economic Output: 7,033,000,000,000 → 7,305,000,000,000 / NaN / +3.9%
+        - Black Market: 16,570,000,000 → 17,160,000,000 / NaN / +3.6%
+        - Charmlessness: 1.79 → 1.81 / +0.02 / +1.1%
+        - Taxation: 68.27 → 68.91 / +0.64 / +0.94%
+        - Death Rate: 126.46 → 127.11 / +0.65 / +0.51%
+        - Employment: 74.47 → 74.57 / +0.1 / +0.13%
+        - Human Development Index: 37.63 → 37.36 / -0.27 / -0.72%
+        - Environmental Beauty: 571.38 → 564.11 / -7.27 / -1.3%
+        - Obesity: 10.77 → 10.60 / -0.17 / -1.6%
+        - Lifespan: 52.70 → 51.86 / -0.84 / -1.6%
+        - Tourism: 60.42 → 58.53 / -1.89 / -3.1%
+        - Eco-Friendliness: 477.10 → 459.30 / -17.8 / -3.7%
+        - Industry Arms Manufacturing: 604.33 → 581.78 / -22.55 / -3.7%
+        - Sector Manufacturing: 604.33 → 581.78 / -22.55 / -3.7%
+        - Public Transport: 556.62 → 535.85 / -20.77 / -3.7%
+        - Foreign Aid: 516.86 → 497.57 / -19.29 / -3.7%
+        - Industry Information Technology: 667.95 → 643.02 / -24.93 / -3.7%
+        - Industry Beverage Sales: 667.95 → 643.02 / -24.93 / -3.7%
+        - Welfare: 1,312.04 → 1,263.07 / -48.97 / -3.7%
+        - Law Enforcement: 993.97 → 956.87 / -37.1 / -3.7%
+        - Public Healthcare: 596.38 → 574.12 / -22.26 / -3.7%
+        - Public Education: 755.42 → 727.22 / -28.2 / -3.7%
+        - Business Subsidization: 278.31 → 267.92 / -10.39 / -3.7%
+        - Pacifism: 20.77 → 19.93 / -0.84 / -4.0%
+        - Industry Pizza Delivery: 124.05 → 95.53 / -28.52 / -23.0%
+        - Freedom From Taxation: 20.37 → 15.03 / -5.34 / -26.2%
 
 Issue 280:
   desc: >
