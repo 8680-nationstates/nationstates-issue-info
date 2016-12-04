@@ -3377,6 +3377,31 @@ Issue 241:
         - Pacifism: 20.77 → 19.93 / -0.84 / -4.0%
         - Industry Pizza Delivery: 124.05 → 95.53 / -28.52 / -23.0%
         - Freedom From Taxation: 20.37 → 15.03 / -5.34 / -26.2%
+    - nation: AKA-3
+      time: 2016-12-03 18:28 -0800
+      choice: 4
+      effects:
+        - Industry Gambling: 13.47 → 17.52 / +4.05 / +30.1%
+        - Freedom From Taxation: -11.38 → -10.63 / +0.75 / +6.6%
+        - Ideological Radicality: 11.52 → 12.24 / +0.72 / +6.3%
+        - Black Market: 35,420,000,000 → 37,540,000,000 / NaN / +6.0%
+        - Political Freedom: 70.17 → 71.60 / +1.43 / +2.0%
+        - Rudeness: 44.37 → 45.14 / +0.77 / +1.7%
+        - Intelligence: 34.18 → 34.54 / +0.36 / +1.1%
+        - Death Rate: 51.75 → 52.14 / +0.39 / +0.75%
+        - Pacifism: 14.02 → 14.05 / +0.03 / +0.21%
+        - Industry Beverage Sales: 14.03 → 14.04 / +0.01 / +0.07%
+        - Compliance: 68.49 → 68.53 / +0.04 / +0.06%
+        - Industry Cheese Exports: 471.53 → 471.77 / +0.24 / +0.05%
+        - Industry Automobile Manufacturing: 1,178.83 → 1,179.42 / +0.59 / +0.05%
+        - Lifespan: 61.87 → 61.83 / -0.04 / -0.06%
+        - Employment: 77.89 → 77.81 / -0.08 / -0.10%
+        - Obesity: 9.73 → 9.71 / -0.02 / -0.21%
+        - Taxation: 69.91 → 69.76 / -0.15 / -0.21%
+        - Government Size: 18.44 → 18.38 / -0.06 / -0.33%
+        - Corruption: 0.82 → 0.81 / -0.01 / -1.2%
+        - Averageness: 43.48 → 42.76 / -0.72 / -1.7%
+        - Ignorance: 2.42 → 2.36 / -0.06 / -2.5%
 
 Issue 280:
   desc: >
