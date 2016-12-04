@@ -4092,6 +4092,60 @@ Issue 459:
         - Authoritarianism: 0.02 → 0.01 / -0.01 / -50.0%
         - Ignorance: 8.82 → 4.27 / -4.55 / -51.6%
 
+Issue 479:
+  desc: >
+    Taxicab drivers are protesting the transportation network (“ridesharing”)
+    company “Fubar”.
+  choices:
+    - Ban transportation network companies.
+    - Let Fubar out-compete taxicabs.
+    - Increase funding to public transit.
+  results:
+    - nation: AKA-0
+      time: 2016-12-03 18:22 -0800
+      choice: 1
+      effects:
+        - Industry Insurance: 0.00 → 50.42 / +50.42 / +100%
+        - Death Rate: 41.22 → 42.48 / +1.26 / +3.1%
+        - Industry Automobile Manufacturing: 355.35 → 360.11 / +4.76 / +1.3%
+        - Charmlessness: 0.90 → 0.91 / +0.01 / +1.1%
+        - Income Equality: 95.21 → 96.25 / +1.04 / +1.1%
+        - Freedom From Taxation: -29.59 → -29.37 / +0.22 / +0.74%
+        - Compliance: 73.25 → 73.48 / +0.23 / +0.31%
+        - Pacifism: 119.48 → 119.72 / +0.24 / +0.20%
+        - Ideological Radicality: 21.09 → 21.13 / +0.04 / +0.19%
+        - Averageness: 33.91 → 33.87 / -0.04 / -0.12%
+        - Economic Freedom: -97.88 → -98.00 / -0.12 / -0.12%
+        - Employment: 74.88 → 74.78 / -0.1 / -0.13%
+        - Tourism: 1,207.90 → 1,203.88 / -4.02 / -0.33%
+        - Taxation: 75.58 → 75.31 / -0.27 / -0.36%
+        - Crime: 2.17 → 2.16 / -0.01 / -0.46%
+        - Lifespan: 64.07 → 63.65 / -0.42 / -0.66%
+        - Rudeness: 12.92 → 12.83 / -0.09 / -0.70%
+        - Human Development Index: 43.83 → 43.47 / -0.36 / -0.82%
+        - Wealth Gaps: 1.05 → 1.04 / -0.01 / -0.95%
+        - Weather: 127.00 → 125.00 / -2 / -1.6%
+        - Environmental Beauty: 807.49 → 794.76 / -12.73 / -1.6%
+        - Economy: 2.12 → 2.00 / -0.12 / -5.7%
+        - Sector Manufacturing: 1,172.64 → 1,022.72 / -149.92 / -12.8%
+        - Average Income of Poor: 10,332.29 → 8,544.85 / -1787.44 / -17.3%
+        - Average Income: 10,602.63 → 8,718.35 / -1884.28 / -17.8%
+        - Economic Output: 7,103,999,999,999 → 5,841,000,000,000 / NaN / -17.8%
+        - Average Income of Rich: 10,852.03 → 8,877.59 / -1974.44 / -18.2%
+        - Public Education: 1,154.87 → 936.30 / -218.57 / -18.9%
+        - Industry Timber Woodchipping: 533.02 → 432.14 / -100.88 / -18.9%
+        - Business Subsidization: 399.76 → 324.10 / -75.66 / -18.9%
+        - Law Enforcement: 777.32 → 630.20 / -147.12 / -18.9%
+        - Industry Book Publishing: 701.81 → 568.98 / -132.83 / -18.9%
+        - Public Transport: 510.81 → 414.13 / -96.68 / -18.9%
+        - Eco-Friendliness: 644.06 → 522.16 / -121.9 / -18.9%
+        - Industry Basket Weaving: 817.30 → 662.61 / -154.69 / -18.9%
+        - Foreign Aid: 444.18 → 360.11 / -84.07 / -18.9%
+        - Welfare: 1,066.04 → 864.27 / -201.77 / -18.9%
+        - Public Healthcare: 799.53 → 648.20 / -151.33 / -18.9%
+        - Defense Forces: 799.53 → 648.20 / -151.33 / -18.9%
+        - Black Market: 8,310,000,000 → 6,700,000,000 / NaN / -19.4%
+
 Issue 492:
   desc: >
     A large collection of paintings, including many by "the most notable artists
